@@ -12,5 +12,5 @@ redirect_from:
 
 💭I'm also affiliated to the Centre of Philosphy of AI at the university.
 
-🧠My main research interests lie in improving our understanding of language capabilities of AI systems like large language models- using insights from cognitive science, linguistics, neuroscience and philosophy (yes, you read it right!)
+🧠My main research interests lie in improving our understanding of language capabilities of AI systems like large language models- using insights from cognitive science, linguistics, neuroscience and philosophy.
 
