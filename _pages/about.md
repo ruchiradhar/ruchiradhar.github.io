@@ -17,3 +17,8 @@ redirect_from:
 
 🚶🏽‍♀️‍➡️ When I’m not immersed in research, I enjoy playing badminton and taking long, contemplative walks to clear my mind and gain new perspectives.
 
+
+### Updates
+
+The first work of my PhD- "From Words to Worlds: Compositionality for Cognitive Architectures" - was accepted to the [LLMs & Cognition](https://llm-cognition.github.io/) workshop at International Conference on Machine Learning (ICML) 2024, Vienna. See you in Austria! 
+
