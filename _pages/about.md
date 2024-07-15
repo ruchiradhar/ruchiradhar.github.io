@@ -20,5 +20,10 @@ redirect_from:
 
 ### Updates
 
-The first work of my PhD- "From Words to Worlds: Compositionality for Cognitive Architectures" - was accepted to the [LLMs & Cognition](https://llm-cognition.github.io/) workshop at International Conference on Machine Learning (ICML) 2024, Vienna. See you in Austria! 
+The first work of my PhD- "From Words to Worlds: Compositionality for Cognitive Architectures" - was accepted to the [LLMs & Cognition](https://llm-cognition.github.io/) workshop at [International Conference on Machine Learning (ICML) 2024](https://icml.cc/), Vienna. See you in July in Austria! 
+
+Our abstract for an oral presentation titled *"The Completeness Problem: Beyond Human Metrics in Assessing Abilities of Cognitive Systems"* was accepted to the [International Symposium on Artificial Intelligence and Neuroscience (ACAIN) 2024](https://acain2024.icas.events/symposium/). Looking forward to the Tuscan sun in September! 
+
+
+
 
