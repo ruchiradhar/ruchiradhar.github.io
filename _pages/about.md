@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-🎓 Short Intro: Hello there! I’m a PhD Researcher in the Department of Computer Science at the University of Copenhagen. I work with Dr. Anders Søgaard and the amazing people at CoAStaL to develop cognitive and human-centric evaluation frameworks for AI systems like LLMs. My work focuses on creating interpretability methods that make analyzing these systems more accessible and actionable for all stakeholders. Additionally, I am involved with the Centre of Philosophy of AI at the university, exploring the societal and ethical dimensions of AI evaluation.
+🎓 Short Intro: Hello there! I’m a PhD Researcher in the Department of Computer Science at the University of Copenhagen. I work with Dr. Anders Søgaard and the amazing people at CoAStaL to develop cognitive and human-centric evaluation frameworks for AI systems like LLMs. My work focuses on creating explainable and interpretable evaluation methods that makes analyzing these systems more accessible for all stakeholders. Additionally, I am involved with the Centre of Philosophy of AI at the university, exploring the societal and ethical dimensions of AI evaluation including AI policy and governance.
 
 🧠 Research Interests: My primary research interest lies in building evaluation frameworks that bridge the gap between technical AI capabilities and human-centric needs. This involves studying the cognitive abilities and humanlike behaviors of AI systems to make their capabilities interpretable and useful for diverse stakeholders, including developers, policymakers, and end-users. I integrate insights from AI, Machine Learning, Cognitive Science, Linguistics, and Philosophy to advance this goal.
 
