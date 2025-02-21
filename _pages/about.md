@@ -15,7 +15,7 @@ redirect_from:
 
 👥 Volunteering: I’m also a community lead at Cohere for AI (C4AI), where I host talks, socials, and meetups to foster open-source research and collaborations in AI, emphasizing ethical and accessible approaches.
 
-🚶🏽‍♀️‍➡️ Hobbies: When I’m not immersed in research, I enjoy playing badminton and taking long, contemplative walks to the ass end of nowhere.
+🚶🏽‍♀️‍➡️ Hobbies: When I’m not immersed in research, I enjoy reading about economics, business and finance. 
 
 
 ### Updates
