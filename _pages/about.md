@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-🎓 Short Intro: Hello there! I’m a PhD Researcher, supervised by Dr. Anders Søgaard, in the [CoAStaL Lab](https://coastalcph.github.io) at the Department of Computer Science, University of Copenhagen.  nd human-centric evaluation frameworks for AI systems like LLMs. Additionally, I am involved with the [Centre of Philosophy of AI](https://sites.google.com/view/cpaicph/home), exploring the societal and ethical dimensions of AI.
+🎓 Short Intro: Hello there! I’m a PhD Researcher, supervised by Dr. Anders Søgaard, in the [CoAStaL Lab](https://coastalcph.github.io) at the Department of Computer Science, University of Copenhagen. Additionally, I am involved with the [Centre of Philosophy of AI](https://sites.google.com/view/cpaicph/home), exploring the societal and ethical dimensions of AI.
 
 🧠 Research Interests: My primary research interest lies in building evaluation frameworks that bridge the gap between technical AI capabilities and human-centric needs. This involves studying the cognitive abilities and humanlike behaviors of AI systems to make their capabilities interpretable and useful for diverse stakeholders, including developers, policymakers, and end-users. I integrate insights from AI, Machine Learning, Cognitive Science, Linguistics, and Philosophy to advance this goal.
 
