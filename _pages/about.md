@@ -9,25 +9,45 @@ redirect_from:
 ---
 
 
-🎓 Short Intro: Hello there! I’m a PhD Researcher, supervised by Dr. Anders Søgaard, in the [CoAStaL Lab](https://coastalcph.github.io) at the Department of Computer Science, University of Copenhagen. Additionally, I am involved with the [Centre of Philosophy of AI](https://sites.google.com/view/cpaicph/home), exploring the societal and ethical dimensions of AI.
+🎓 Short Intro: Hello there! I’m a PhD Researcher in Natural Language Processing and AI, supervised by Dr. Anders Søgaard, in the [CoAStaL Lab](https://coastalcph.github.io) at the Department of Computer Science, University of Copenhagen. Additionally, I am involved with the [Centre of Philosophy of AI](https://sites.google.com/view/cpaicph/home), exploring the societal and ethical dimensions of AI.
 
-🧠 Research Interests: My primary research interest lies in building evaluation frameworks that bridge the gap between technical AI capabilities and human-centric needs. This involves studying the cognitive abilities and humanlike behaviors of AI systems to make their capabilities interpretable and useful for diverse stakeholders, including developers, policymakers, and end-users. I integrate insights from AI, Machine Learning, Cognitive Science, Linguistics, and Philosophy to advance this goal.
+🧠 Research Interests: My core research focus is on the evaluation of Large Language Models (LLMs), with a particular emphasis on assessing their diverse capabilities and humanlike behaviors. I aim to make these systems' strengths and limitations more interpretable, measurable, and actionable for developers, policymakers, and end-users alike. To do so, I draw on interdisciplinary methods and insights from Artificial Intelligence, Machine Learning, Cognitive Science, Linguistics, and Social Sciences.
 
-👥 Volunteering: I’m also a community lead at Cohere for AI (C4AI), where I host talks, socials, and meetups to foster open-source research and collaborations in AI, emphasizing ethical and accessible approaches.
+👥 Volunteering: I’m also a community lead at [Cohere Labs](https://cohere.com/research) , where I host talks, socials, and meetups to foster open-source research and collaborations in AI, emphasizing ethical and accessible approaches.
 
-🚶🏽‍♀️‍➡️ Hobbies: When I’m not immersed in research, I enjoy reading about economics, business and finance. 
-
-
-### Updates
-
-Super happy to announce that our paper titled *"Investigating the role of modality and training objective on representational alignment between transformers and the brain"* was accepted to the Proceedings Track [Unireps Workshop](https://unireps.org/2024/) at NeurIPS 2024! Read the paper [here](https://openreview.net/forum?id=t4CnKu6yXn#discussion). Coming out soon in PMLR!
-
-My work with co-author Constanza Fierro, titled *"Defining Knowledge: Bridging Epistemology and Large Language Models"* was accepted to [EMNLP Main Conference, 2024](https://2024.emnlp.org)! Read the paper [here](https://aclanthology.org/2024.emnlp-main.900/)
-
-The first work of my PhD- *"From Words to Worlds: Compositionality for Cognitive Architectures"* - was accepted to the [LLMs & Cognition](https://llm-cognition.github.io/) workshop at [International Conference on Machine Learning (ICML) 2024](https://icml.cc/), Vienna. Read the paper [here](https://openreview.net/forum?id=2eA9b52PAW)
-
-Our abstract for an oral presentation titled *"The Completeness Problem: Beyond Human Metrics in Assessing Abilities of Cognitive Systems"* was accepted to the [International Symposium on Artificial Intelligence and Neuroscience (ACAIN) 2024](https://acain2024.icas.events/symposium/). 
+🚶🏽‍♀️‍➡️ Hobbies: When I’m not immersed in research, I enjoy reading about International Relations and Economics.  
 
 
+### Research Updates
+
+#### Publications
+
+**[Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users](https://arxiv.org/abs/2503.22610)**  
+*ACL 2025 (Main Conference)*  
+Publication upcoming in ACL Anthology  
+→ Evaluates LLMs as accessibility tools for visually impaired users.
+
+**[Investigating the Role of Modality and Training Objective on Representational Alignment Between Transformers and the Brain](https://openreview.net/forum?id=t4CnKu6yXn#discussion)**  
+*UniReps Workshop @ NeurIPS 2024 (Proceedings Track)*  
+Publication upcoming in Proceedings of Machine Learning Research (PMLR)
+→ Evaluates representational alignment in LLMs and human FMRI.
+
+**[Defining Knowledge: Bridging Epistemology and Large Language Models](https://aclanthology.org/2024.emnlp-main.900/)**  
+*EMNLP 2024 (Main Conference)*  
+→ Explores the evaluation of knowledge in LLMs with perspectives from epistemology.
+
+#### Peer-Reviewed Presentations
+
+**[From Words to Worlds: Compositionality for Cognitive Architectures](https://openreview.net/forum?id=2eA9b52PAW)**  
+*LLMs & Cognition Workshop @ ICML 2024, Vienna*  
+→ Evaluates reasoning and compositionality in LLMs.
+
+**[The Completeness Problem: Beyond Human Metrics in Assessing Abilities of Cognitive Systems](https://acain2024.icas.events/symposium/)**  
+*Oral Presentation@ ACAIN 2024 (International Symposium on AI & Neuroscience)*  
+→ Introduces a critical perspective on how we define and evaluate intelligence in AI.
+
+**[Compositionality in Language Models: A Perspective in Changing Interpretations and Methods](https://ail-workshop.github.io/aiai-conference/program.html)**  
+*Oral Presentation@ AIAI 2024 (Symposium on Agency and Intentions in AI)*  
+→ Introduces a critical perspective on how we define and evaluate compositionality in AI.
 
 
