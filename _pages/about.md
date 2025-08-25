@@ -13,6 +13,8 @@ redirect_from:
 
 🧠 Research Interests: My research focus is on the evaluation of Large Language Models (LLMs)- How do we know if a model is "good" or "safe"? How do we know if a model is actually better than other? Are our current evaluation practices (data, metrics, scores) rigorous enough to measure actual scientific progress of the field? What can we do to make these systems' strengths and limitations more interpretable and actionable for the general public?. On a related note, I'm also interested in AI Policy and Governance and how evaluation practices can play a key role in such efforts.
 
+👩🏽‍🏫 Teaching: I serve as a Teaching Assistant for the [NLP Course](https://kurser.ku.dk/course/ndak18000u/2025-2026) in 2025. I was also the TA for the course last year.
+
 👥 Volunteering: I’m a community lead at [Cohere Labs](https://cohere.com/research) ,formerly Cohere For AI, where I host talks, socials, and meetups to foster open-source research and collaborations in AI research. I also serve as a volunteer teacher at the non-profit [eVidyaloka](https://www.evidyaloka.org/).
 
 🚶🏽‍♀️‍➡️ Hobbies: I love reading about art history and dabbling in oil painting!
