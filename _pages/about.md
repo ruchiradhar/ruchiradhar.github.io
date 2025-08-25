@@ -58,7 +58,7 @@ Constanza Fierro, **Ruchira Dhar**, Filippos Stamatiou, Nicolas Garneau, Anders 
 
 **[The Completeness Problem: Beyond Human Metrics in Assessing Abilities of Cognitive Systems](https://acain2024.icas.events/symposium/)**  
 Ninell Oldenburg, **Ruchira Dhar**
-*ACAIN (International Symposium on AI & Neuroscience), 2024*  
+*ACAIN (International Symposium on AI & Neuroscience), 2024* 
 → Introduces a critical perspective on how we define and evaluate intelligence in AI.
 
 **[Compositionality in Language Models: A Perspective in Changing Interpretations and Methods](https://ail-workshop.github.io/aiai-conference/program.html)**  
