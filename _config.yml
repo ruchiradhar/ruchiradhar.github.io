@@ -24,7 +24,7 @@ author:
   avatar           : "profile-min.jpeg"
   name             : "Ruchira Dhar"
   pronouns         : "she/her"  
-  bio              : "Doctoral Researcher in NLP"
+  bio              : "PhD Researcher in AI"
   location         : "Copenhagen"
   employer         : "University of Copenhagen"
   uri              : # URL
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  bluesky          : eclecticruchira.bsky.social
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
