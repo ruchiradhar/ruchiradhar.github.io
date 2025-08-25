@@ -28,36 +28,36 @@ redirect_from:
 
 **[Beyond Technocratic XAI: The Who, What & How in Explanation Design](https://arxiv.org/abs/2508.09231)** \
 **Ruchira Dhar** , Stephanie Brandl, Ninell Oldenburg, Anders Søgaard \
-*AI, Ethics, and Society (AIES) Conference, 2025*
+**AIES 2025 (Main Conference)**
 
 **[Mechanistic Interpretability Needs Philosophy](https://arxiv.org/abs/2506.18852)** \
 Iwan Williams, Ninell Oldenburg, **Ruchira Dhar**, Joshua Hatherley, Constanza Fierro, Nina Rajcic, Sandrine R. Schiller, Filippos Stamatiou, Anders Søgaard \
-*Under review at conference*
+**Under review at conference**
 
 **[Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users](https://aclanthology.org/2025.acl-long.1260/)** \
 Antonia Karamolegkou, Malvina Nikandrou, Georgios Pantazopoulos, Danae Sanchez Villegas, Phillip Rust, **Ruchira Dhar**, Daniel Hershcovich, Anders Søgaard \
-*ACL 2025 (Main Conference)*  
+**ACL 2025 (Main Conference)**  
 
 **[Investigating the Role of Modality and Training Objective on Representational Alignment Between Transformers and the Brain](https://openreview.net/forum?id=t4CnKu6yXn#discussion)** \
 Hyewon Willow Han, **Ruchira Dhar**, Qingqing Yang, Maryam Hoseini Behbahani, María Alejandra Martínez Ortiz, Tolulope Samuel Oladele, Diana C Dima, Hsin-Hung Li, Anders Søgaard, Yalda Mohsenzadeh \
-*UniReps Workshop @ NeurIPS 2024 (Proceedings Track)*
+**NeurIPS 2024 (UniReps Worskhop Proceedings)**
 
 **[Defining Knowledge: Bridging Epistemology and Large Language Models](https://aclanthology.org/2024.emnlp-main.900/)** \
 Constanza Fierro, **Ruchira Dhar**, Filippos Stamatiou, Nicolas Garneau, Anders Søgaard \
-*EMNLP 2024 (Main Conference)*
+**EMNLP 2024 (Main Conference)**
 
-#### Invited Talks/Presentations
+#### Presentations/Invited Talks
 
 **[From Words to Worlds: Compositionality for Cognitive Architectures](https://openreview.net/forum?id=2eA9b52PAW)** \
-*LLMs & Cognition Workshop @ ICML (International Conference on Machine Learning), 2024* \
-**Ruchira Dhar**, Ninell Oldenburg
+**Ruchira Dhar**, Ninell Oldenburg \
+**LLMs & Cognition Workshop @ ICML (International Conference on Machine Learning), 2024**
 
-**[The Completeness Problem: Beyond Human Metrics in Assessing Abilities of Cognitive Systems](https://acain2024.icas.events/symposium/)** \    
+**[The Completeness Problem: Beyond Human Metrics in Assessing Abilities of Cognitive Systems](https://acain2024.icas.events/symposium/)** \
 Ninell Oldenburg, **Ruchira Dhar** \
-*ACAIN (International Symposium on AI & Neuroscience), 2024* 
+**ACAIN (International Symposium on AI & Neuroscience), 2024** 
 
 **[Compositionality in Language Models: A Perspective in Changing Interpretations and Methods](https://ail-workshop.github.io/aiai-conference/program.html)** \
 **Ruchira Dhar** \
-*AIAI (Symposium on Agency and Intentions in AI), 2024* \  
+**AIAI (Symposium on Agency and Intentions in AI), 2024**
 
 
