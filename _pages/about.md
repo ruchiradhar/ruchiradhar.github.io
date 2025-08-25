@@ -26,10 +26,10 @@ redirect_from:
 
 #### Publications
 
-**[Beyond Technocratic XAI: The Who, What & How in Explanation Design](https://arxiv.org/abs/2508.09231)**. 
-**Ruchira Dhar** , Stephanie Brandl, Ninell Oldenburg, Anders Søgaard. 
-*AI, Ethics, and Society (AIES) Conference, 2025*. 
-→ Reframes the development of XAI tools as a design process keeping in mind the larger context of deployment.
+**[Beyond Technocratic XAI: The Who, What & How in Explanation Design](https://arxiv.org/abs/2508.09231)**\
+**Ruchira Dhar** , Stephanie Brandl, Ninell Oldenburg, Anders Søgaard\ 
+*AI, Ethics, and Society (AIES) Conference, 2025*\
+→ Reframes the development of XAI tools as a design process keeping in mind the larger context of deployment\
 
 **[Mechanistic Interpretability Needs Philosophy](https://arxiv.org/abs/2506.18852)**. 
 Iwan Williams, Ninell Oldenburg, **Ruchira Dhar**, Joshua Hatherley, Constanza Fierro, Nina Rajcic, Sandrine R. Schiller, Filippos Stamatiou, Anders Søgaard. 
