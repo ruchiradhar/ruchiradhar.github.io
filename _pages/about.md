@@ -26,6 +26,10 @@ redirect_from:
 
 #### Selected Publications
 
+**[EvalCards: A Framework for Standardized Evaluation Reporting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5444574)** \
+**Dhar et al ** \
+**Under Review**
+
 **Realist and Pluralist Conceptions of Intelligence and Their Implications on AI (Alignment) Research** \
 Ninell Oldenburg, **Ruchira Dhar** \
 **Forthcoming in AAAI 2026 (Alignment Track)**
