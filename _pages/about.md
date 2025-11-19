@@ -24,11 +24,11 @@ redirect_from:
 
 ### Research Updates
 
-#### Selected Publications
+#### Research Papers
 
 **Realist and Pluralist Conceptions of Intelligence and Their Implications on AI (Alignment) Research** \
 Ninell Oldenburg, **Ruchira Dhar**, Anders Søgaard \
-*Accepted at [AAAI Conference, 2026](https://aaai.org/conference/aaai/aaai-26/) (Oral, Alignment Track)*
+*Published at [AAAI Conference, 2026](https://aaai.org/conference/aaai/aaai-26/) (Oral, Alignment Track)*
 
 **[On the Measure of a Model:From Intelligence to Generality](https://arxiv.org/abs/2511.11773)** \
 **Ruchira Dhar**, Ninell Oldenburg, Anders Søgaard \
@@ -40,37 +40,37 @@ Ninell Oldenburg, **Ruchira Dhar**, Anders Søgaard \
 
 **[Beyond Technocratic XAI: The Who, What & How in Explanation Design](https://ojs.aaai.org/index.php/AIES/article/view/36586)** \
 **Ruchira Dhar** , Stephanie Brandl, Ninell Oldenburg, Anders Søgaard \
-*Accepted at AAAI/ACM [AI, Ethics, & Society (AIES) Conference, 2025](https://www.aies-conference.com/2025/)*
+*Published at AAAI/ACM [AI, Ethics, & Society (AIES) Conference, 2025](https://www.aies-conference.com/2025/)*
 
 **[Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users](https://aclanthology.org/2025.acl-long.1260/)** \
 Antonia Karamolegkou, Malvina Nikandrou, Georgios Pantazopoulos, Danae Sanchez Villegas, Phillip Rust, **Ruchira Dhar**, Daniel Hershcovich, Anders Søgaard \
-*Accepted at [Association for Computational Linguistics (ACL), 2025](https://2025.aclweb.org/)*  
+*Published at [Association for Computational Linguistics (ACL), 2025](https://2025.aclweb.org/)*  
 
 **[Investigating the Role of Modality and Training Objective on Representational Alignment Between Transformers and the Brain](https://proceedings.mlr.press/v285/han24a.html)** \
 Hyewon Willow Han, **Ruchira Dhar**, Qingqing Yang, Maryam Hoseini Behbahani, María Alejandra Martínez Ortiz, Tolulope Samuel Oladele, Diana C Dima, Hsin-Hung Li, Anders Søgaard, Yalda Mohsenzadeh \
-*Accepted at UniReps Workshop @NeurIPS 2024. Published in Proceedings of Machine Learning Research (PMLR), 2024*
+*Published at [UniReps Workshop @NeurIPS 2024](https://unireps.org/2024/) via [Proceedings of Machine Learning Research (PMLR), 2024](https://proceedings.mlr.press/v285/)*
 
 **[Defining Knowledge: Bridging Epistemology and Large Language Models](https://aclanthology.org/2024.emnlp-main.900/)** \
 Constanza Fierro, **Ruchira Dhar**, Filippos Stamatiou, Nicolas Garneau, Anders Søgaard \
-*Accepted at [Empirical Methods in Natural Language Processing (EMNLP), 2024](https://2024.emnlp.org/)*
+*Published at [Empirical Methods in Natural Language Processing (EMNLP), 2024](https://2024.emnlp.org/)*
 
-#### Presentations/Invited Talks
+**[From Words to Worlds: Compositionality for Cognitive Architectures](https://openreview.net/forum?id=2eA9b52PAW)** \
+**Ruchira Dhar**, Anders Søgaard \
+*Accepted at [LLMs & Cognition Workshop @ International Conference on Machine Learning (ICML), 2024](https://icml.cc/virtual/2024/workshop/29963)*
+
+#### Invited Talks
 
 **[Are We Testing the Right Things in Multi-Agent AI?](https://docs.google.com/presentation/d/1KIEEOPm9NBGmvGGng7yyONUNGWJDw2m42DNWNqcwdZM/edit?usp=sharing)** \
 **Ruchira Dhar** \
-*St John's College, Cambridge, UK (Hosted by [UKAI Forum](https://www.ukaiforum.com/events/speakerseries3) and [Meridian Cambridge](https://www.meridiancambridge.org/)), 2025*
+*Venue: St John's College, Cambridge, UK (Hosted by [UKAI Forum](https://www.ukaiforum.com/events/speakerseries3) and [Meridian Cambridge](https://www.meridiancambridge.org/)), 2025*
 
-
-**[From Words to Worlds: Compositionality for Cognitive Architectures](https://openreview.net/forum?id=2eA9b52PAW)** \
-**Ruchira Dhar**\
-*LLMs & Cognition Workshop @ ICML (International Conference on Machine Learning), 2024*
 
 **[The Completeness Problem: Beyond Human Metrics in Assessing Abilities of Cognitive Systems](https://acain2024.icas.events/symposium/)** \
 Ninell Oldenburg, **Ruchira Dhar** \
-*ACAIN (International Symposium on AI & Neuroscience), 2024*
+*Venue: [International Symposium on AI & Neuroscience (ACAIN), 2024](https://acain2024.icas.events/)*
 
 **[Compositionality in Language Models: A Perspective in Changing Interpretations and Methods](https://ail-workshop.github.io/aiai-conference/program.html)** \
 **Ruchira Dhar** \
-*AIAI (Symposium on Agency and Intentions in AI), 2024*
+*Venue: [Agency and Intentions in AI (AIAI) Symposium, 2024](https://ail-workshop.github.io/aiai-conference/)*
 
 
