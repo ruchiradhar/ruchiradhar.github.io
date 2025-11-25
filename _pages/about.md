@@ -11,13 +11,12 @@ redirect_from:
 
 🎓 Short Intro: Hello there! I’m a PhD Researcher in Natural Language Processing and AI, supervised by Dr. Anders Søgaard, in the [CoAStaL Lab](https://coastalcph.github.io) at the Department of Computer Science, University of Copenhagen. Additionally, I am involved with the [Centre of Philosophy of AI](https://cpai.ku.dk/), exploring the societal and ethical dimensions of AI.
 
-🧠 Research Interests: My research focus is on the science of evaluation of Large Language Models (LLMs)-  What are the goals of evaluation for AI systems today? How do we evaluate intelligence? Are our current evaluation practices rigorous enough to measure actual scientific progress of the field? What can we do to make these systems' strengths and limitations more interpretable and actionable for the general public?. On a related note, I'm also interested in AI Policy and Governance and how evaluation practices can play a key role in such efforts.
+🧠 Research Interests: My research focus is on the science of evaluation of Large Language Models (LLMs). On a related note, I'm also interested in AI Policy and Governance and how evaluation practices can play a key role in such efforts.
 
 👩🏽‍🏫 Teaching: I serve as a Teaching Assistant for the [NLP Course](https://kurser.ku.dk/course/ndak18000u/2025-2026) in 2025. I was also the TA for the course last year.
 
 👥 Affiliations: I’m a community lead at [Cohere Labs](https://cohere.com/research) ,formerly Cohere For AI, where I host talks, socials, and meetups to foster open-source research and collaborations in AI research. I am also a Venture Fellow at [Creator Fund](https://thecreatorfund.com/university-team/) for 2025-2026. 
 
-🚶🏽‍♀️‍➡️ Hobbies: I love reading about art history and dabbling in oil painting!
 
 📢 Contact: You can reach me on Linkedin or at  *rudh@di.ku.dk*.
 
