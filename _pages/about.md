@@ -26,7 +26,7 @@ redirect_from:
 
 #### Research Papers
 
-**Realist and Pluralist Conceptions of Intelligence and Their Implications on AI (Alignment) Research** \
+**[Realist and Pluralist Conceptions of Intelligence and Their Implications on AI Research](https://arxiv.org/abs/2511.15282)** \
 Ninell Oldenburg, **Ruchira Dhar**, Anders Søgaard \
 *Published at [AAAI Conference, 2026](https://aaai.org/conference/aaai/aaai-26/) (Oral, Alignment Track)*
 
@@ -35,7 +35,7 @@ Ninell Oldenburg, **Ruchira Dhar**, Anders Søgaard \
 *Accepted at The Science of Benchmarking and Evaluating AI Workshop @ [EurIPS Conference, 2025](https://eurips.cc/)*
 
 **[EvalCards: A Framework for Standardized Evaluation Reporting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5444574)** \
-**Dhar et al** \
+**Ruchira Dhar**, Danae Sánchez Villegas, Antonia Karamolegkou, Alice Schiavone, Yifei Yuan, Xinyi Chen, Jiaang Li, Stella Frank, Laura De Grazia, Monorama Swain, Stephanie Brandl, Daniel Hershcovich, Anders Søgaard, Desmond Elliott  \
 *Accepted at The Science of Benchmarking and Evaluating AI Workshop @ [EurIPS Conference, 2025](https://eurips.cc/)*
 
 **[Beyond Technocratic XAI: The Who, What & How in Explanation Design](https://ojs.aaai.org/index.php/AIES/article/view/36586)** \
