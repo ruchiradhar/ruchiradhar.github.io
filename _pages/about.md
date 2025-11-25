@@ -24,8 +24,6 @@ redirect_from:
 
 ### Research Updates
 
-#### Research Papers
-
 **[Realist and Pluralist Conceptions of Intelligence and Their Implications on AI Research](https://arxiv.org/abs/2511.15282)** \
 Ninell Oldenburg, **Ruchira Dhar**, Anders Søgaard \
 *Published at [AAAI Conference, 2026](https://aaai.org/conference/aaai/aaai-26/) (Oral, Alignment Track)*
@@ -57,20 +55,5 @@ Constanza Fierro, **Ruchira Dhar**, Filippos Stamatiou, Nicolas Garneau, Anders 
 **[From Words to Worlds: Compositionality for Cognitive Architectures](https://openreview.net/forum?id=2eA9b52PAW)** \
 **Ruchira Dhar**, Anders Søgaard \
 *Accepted at [LLMs & Cognition Workshop @ International Conference on Machine Learning (ICML), 2024](https://icml.cc/virtual/2024/workshop/29963)*
-
-#### Invited Talks
-
-**[Are We Testing the Right Things in Multi-Agent AI?](https://docs.google.com/presentation/d/1KIEEOPm9NBGmvGGng7yyONUNGWJDw2m42DNWNqcwdZM/edit?usp=sharing)** \
-**Ruchira Dhar** \
-*Venue: St John's College, Cambridge, UK (Hosted by [UKAI Forum](https://www.ukaiforum.com/events/speakerseries3) and [Meridian Cambridge](https://www.meridiancambridge.org/)), 2025*
-
-
-**[The Completeness Problem: Beyond Human Metrics in Assessing Abilities of Cognitive Systems](https://acain2024.icas.events/symposium/)** \
-Ninell Oldenburg, **Ruchira Dhar** \
-*Venue: [International Symposium on AI & Neuroscience (ACAIN), 2024](https://acain2024.icas.events/)*
-
-**[Compositionality in Language Models: A Perspective in Changing Interpretations and Methods](https://ail-workshop.github.io/aiai-conference/program.html)** \
-**Ruchira Dhar** \
-*Venue: [Agency and Intentions in AI (AIAI) Symposium, 2024](https://ail-workshop.github.io/aiai-conference/)*
 
 
