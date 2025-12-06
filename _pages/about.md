@@ -31,7 +31,7 @@ Ninell Oldenburg, **Ruchira Dhar**, Anders Søgaard \
 **Ruchira Dhar**, Ninell Oldenburg, Anders Søgaard \
 *Accepted at The Science of Benchmarking and Evaluating AI Workshop @ [EurIPS Conference, 2025](https://eurips.cc/)*
 
-**[EvalCards: A Framework for Standardized Evaluation Reporting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5444574)** \
+**[EvalCards: A Framework for Standardized Evaluation Reporting](https://arxiv.org/abs/2511.21695)** \
 **Ruchira Dhar**, Danae Sánchez Villegas, Antonia Karamolegkou, Alice Schiavone, Yifei Yuan, Xinyi Chen, Jiaang Li, Stella Frank, Laura De Grazia, Monorama Swain, Stephanie Brandl, Daniel Hershcovich, Anders Søgaard, Desmond Elliott  \
 *Accepted at The Science of Benchmarking and Evaluating AI Workshop @ [EurIPS Conference, 2025](https://eurips.cc/)*
 
