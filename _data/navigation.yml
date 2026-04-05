@@ -6,6 +6,15 @@ main:
   - title: "Talks"
     url: /talks/    
 
+  - title: "Research Output"
+    url: /research/
+
+  - title: "Research Outlook"
+    url: /research-outlook/
+
+  - title: "Personal Projects"
+    url: /personal-projects/
+
   #- title: "Teaching"
   #  url: /teaching/    
     
@@ -16,7 +25,7 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: /files/RuchiraDharCV.pdf
+    url: /files/RuchiraAcadResume.pdf
     
   #- title: "Guide"
   #  url: /markdown/

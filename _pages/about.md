@@ -1,58 +1,62 @@
 ---
 permalink: /
-title: "Ruchira's Homepage"
+title: "Hello"
 excerpt: "About me"
 author_profile: true
+classes: about-home
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Hi, I'm Ruchira 👋
 
-🎓 Short Intro: Hello there! I’m a PhD Researcher in Natural Language Processing and AI, supervised by Dr. Anders Søgaard, in the [CoAStaL Lab](https://coastalcph.github.io) at the Department of Computer Science, University of Copenhagen. Additionally, I am involved with the [Centre of Philosophy of AI](https://cpai.ku.dk/), exploring the societal and ethical dimensions of AI.
+PhD Researcher in NLP and AI, based at the [CoAStaL Lab](https://coastalcph.github.io), University of Copenhagen, supervised by Dr. Anders Søgaard. I'm also affiliated with the [Centre for Philosophy of AI](https://cpai.ku.dk/), where I get to think about the broader societal and ethical dimensions of the technology I study every day.
 
-🧠 Research Interests: My research focus is on the science of evaluation of Large Language Models (LLMs). On a related note, I'm also interested in AI Policy and Governance and how evaluation practices can play a key role in such efforts.
+### Research 🧠
 
-👩🏽‍🏫 Teaching: I serve as a Teaching Assistant for the [NLP Course](https://kurser.ku.dk/course/ndak18000u/2025-2026) in 2025. I was also the TA for the course last year.
+I work on science of evaluation of AI, with a focus on connecting technical model assessment to real-world deployment and use. For more details, see [Research Work](/research/) and [Research Outlook](/research-outlook/).
 
-👥 Affiliations: I’m a community lead at [Cohere Labs](https://cohere.com/research) ,formerly Cohere For AI, where I host talks, socials, and meetups to foster open-source research and collaborations in AI research. I am also a Venture Fellow at [Creator Fund](https://thecreatorfund.com/university-team/) for 2025-2026. 
+### Teaching 👩🏽‍🏫
+
+I'm a Teaching Assistant for the [NLP Course at KU](https://kurser.ku.dk/course/ndak18000u/2025-2026) — a role I've held for two years and genuinely enjoy. There's something really rewarding about helping students get their first foothold in the field.
+
+### Community & Beyond 🌍
 
 
-📢 Contact: You can reach me on Linkedin or at  *rudh@di.ku.dk*.
+- Working Member @ [EvalEval Coalition](https://evalevalai.com/) (2025-Present) — contributing to community efforts around robust and responsible AI evaluation.
+- Venture Fellow @ [Creator Fund](https://thecreatorfund.com/university-team/) (2025-Present) — exploring the intersection of research and entrepreneurship.
+- Open Science Lead @ [Cohere Labs](https://cohere.com/research) (2025-Present) — I organise talks, socials, and meetups to support open-source AI research and build a collaborative community around it.
 
+### Currently Learning 🌱
 
-### Research Updates
+Research has a way of dragging you into rabbit holes you didn't plan for. Lately:
 
-**[Realist and Pluralist Conceptions of Intelligence and Their Implications on AI Research](https://arxiv.org/abs/2511.15282)** \
-Ninell Oldenburg, **Ruchira Dhar**, Anders Søgaard \
-*Published at [AAAI Conference, 2026](https://aaai.org/conference/aaai/aaai-26/) (Oral, Alignment Track)*
+#### Multi-Agent Systems
 
-**[On the Measure of a Model:From Intelligence to Generality](https://arxiv.org/abs/2511.11773)** \
-**Ruchira Dhar**, Ninell Oldenburg, Anders Søgaard \
-*Accepted at The Science of Benchmarking and Evaluating AI Workshop @ [EurIPS Conference, 2025](https://eurips.cc/)*
+**What:** How multiple AI agents interact, coordinate, and sometimes make a mess together.
 
-**[EvalCards: A Framework for Standardized Evaluation Reporting](https://arxiv.org/abs/2511.21695)** \
-**Ruchira Dhar**, Danae Sánchez Villegas, Antonia Karamolegkou, Alice Schiavone, Yifei Yuan, Xinyi Chen, Jiaang Li, Stella Frank, Laura De Grazia, Monorama Swain, Stephanie Brandl, Daniel Hershcovich, Anders Søgaard, Desmond Elliott  \
-*Accepted at The Science of Benchmarking and Evaluating AI Workshop @ [EurIPS Conference, 2025](https://eurips.cc/)*
+**Why:** That's increasingly [how AI actually gets deployed today](https://www.anthropic.com/engineering/multi-agent-research-system), and I realised that eva;uation for such systems needs to be fundamentally different from how we do evals now. So I'm trying to figure that out. Here's my thoughts from a talk I gave on the topic: [slides](https://docs.google.com/presentation/d/1KIEEOPm9NBGmvGGng7yyONUNGWJDw2m42DNWNqcwdZM/edit?usp=sharing).
 
-**[Beyond Technocratic XAI: The Who, What & How in Explanation Design](https://ojs.aaai.org/index.php/AIES/article/view/36586)** \
-**Ruchira Dhar** , Stephanie Brandl, Ninell Oldenburg, Anders Søgaard \
-*Published at AAAI/ACM [AI, Ethics, & Society (AIES) Conference, 2025](https://www.aies-conference.com/2025/)*
+#### C++
 
-**[Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users](https://aclanthology.org/2025.acl-long.1260/)** \
-Antonia Karamolegkou, Malvina Nikandrou, Georgios Pantazopoulos, Danae Sanchez Villegas, Phillip Rust, **Ruchira Dhar**, Daniel Hershcovich, Anders Søgaard \
-*Published at [Association for Computational Linguistics (ACL), 2025](https://2025.aclweb.org/)*  
+**What:** Syntax, Type Declaration, Type Casting, Vectors, and all the things Python was hiding from me. Also, doing some data structures and algorithms in C++: here's my [Github Repo](https://github.com/ruchiradhar/learninglab_dsa) if you want to follow along.
 
-**[Investigating the Role of Modality and Training Objective on Representational Alignment Between Transformers and the Brain](https://proceedings.mlr.press/v285/han24a.html)** \
-Hyewon Willow Han, **Ruchira Dhar**, Qingqing Yang, Maryam Hoseini Behbahani, María Alejandra Martínez Ortiz, Tolulope Samuel Oladele, Diana C Dima, Hsin-Hung Li, Anders Søgaard, Yalda Mohsenzadeh \
-*Published at [UniReps Workshop @NeurIPS 2024](https://unireps.org/2024/) via [Proceedings of Machine Learning Research (PMLR), 2024](https://proceedings.mlr.press/v285/)*
+**Why:** I got tired of not really knowing what was happening under the hood. A lot of my work is about how AI systems perform in the real world, and it felt a bit odd to not understand the efficiency side of things at all. Still very much a work in progress.
 
-**[Defining Knowledge: Bridging Epistemology and Large Language Models](https://aclanthology.org/2024.emnlp-main.900/)** \
-Constanza Fierro, **Ruchira Dhar**, Filippos Stamatiou, Nicolas Garneau, Anders Søgaard \
-*Published at [Empirical Methods in Natural Language Processing (EMNLP), 2024](https://2024.emnlp.org/)*
+#### System Design
 
-**[From Words to Worlds: Compositionality for Cognitive Architectures](https://openreview.net/forum?id=2eA9b52PAW)** \
-**Ruchira Dhar**, Anders Søgaard \
-*Accepted at [LLMs & Cognition Workshop @ International Conference on Machine Learning (ICML), 2024](https://icml.cc/virtual/2024/workshop/29963)*
+**What:** How AI systems get built, scaled, and maintained in production.
+
+**Why:** Honestly, I kept reading about deployment failures and realising I only understood part of why they happened. It's hard to evaluate systems properly if you don't understand how they're put together in the first place.
+
+Still figuring all of this out — but I guess that's kind of the point.
+
+### Get in Touch 📢
+
+Whether you want to debate evaluation metrics, talk AI safety and policy, or just say hi — find me on LinkedIn or drop a line at [this email](mailto:rudh@di.ku.dk).
+
+Based in Copenhagen — coffee recommendations always welcome.
+
 
 

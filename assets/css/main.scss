@@ -122,3 +122,21 @@ button {
 ::placeholder {
   color: rgba(255, 193, 220, 0.75) !important;
 }
+
+/* Homepage typography hierarchy (scoped to about page) */
+.about-home .page__content p,
+.about-home .page__content li {
+  font-size: 1rem;
+}
+
+.about-home .page__content h3 {
+  color: #ffffff !important;
+  font-size: clamp(1.45rem, 2.1vw, 1.65rem);
+  line-height: 1.25;
+}
+
+.about-home .page__content h4 {
+  color: #ffffff !important;
+  font-size: clamp(1.2rem, 1.75vw, 1.35rem);
+  line-height: 1.3;
+}
