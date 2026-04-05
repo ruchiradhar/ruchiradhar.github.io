@@ -28,27 +28,19 @@ I'm a Teaching Assistant for the [NLP Course at KU](https://kurser.ku.dk/course/
 
 ### Currently Learning 🌱
 
-Research has a way of dragging you into rabbit holes you didn't plan for. Lately:
+My background is in language science, not software engineering — which means there are parts of how AI systems actually get built and deployed that I'm still figuring out. These are the rabbit holes I've been happily falling into lately:
 
 #### Multi-Agent Systems
 
-**What:** How multiple AI agents interact, coordinate, and sometimes make a mess together.
-
-**Why:** That's increasingly [how AI actually gets deployed today](https://www.anthropic.com/engineering/multi-agent-research-system), and I realised that eva;uation for such systems needs to be fundamentally different from how we do evals now. So I'm trying to figure that out. Here's my thoughts from a talk I gave on the topic: [slides](https://docs.google.com/presentation/d/1KIEEOPm9NBGmvGGng7yyONUNGWJDw2m42DNWNqcwdZM/edit?usp=sharing).
+Multiple Agent Systems is increasingly [how AI actually gets deployed today](https://www.anthropic.com/engineering/multi-agent-research-system). Understanding how these systems work in deployment felt like a necessary step if I want my evaluation work to say something useful about AI in production, not just AI in a research setting. So I'm trying to figure that out. Here's my thoughts from a talk I gave on the topic: [slides](https://docs.google.com/presentation/d/1KIEEOPm9NBGmvGGng7yyONUNGWJDw2m42DNWNqcwdZM/edit?usp=sharing).
 
 #### C++
 
-**What:** Syntax, Type Declaration, Type Casting, Vectors, and all the things Python was hiding from me. Also, doing some data structures and algorithms in C++: here's my [Github Repo](https://github.com/ruchiradhar/learninglab_dsa) if you want to follow along.
-
-**Why:** I got tired of not really knowing what was happening under the hood. A lot of my work is about how AI systems perform in the real world, and it felt a bit odd to not understand the efficiency side of things at all. Still very much a work in progress.
+Projects like [llama.cpp](https://github.com/ggml-org/llama.cpp) made me realise how much of real-world model efficiency happens at a level Python just doesn't touch. So I've been learning the basics of C++, including data structures and algorithmic implementations. Still early, but here's my [Github Repo](https://github.com/ruchiradhar/learninglab_dsa) if you want to follow along.
 
 #### System Design
 
-**What:** How AI systems get built, scaled, and maintained in production.
-
-**Why:** Honestly, I kept reading about deployment failures and realising I only understood part of why they happened. It's hard to evaluate systems properly if you don't understand how they're put together in the first place.
-
-Still figuring all of this out — but I guess that's kind of the point.
+Spending time around AI engineers made me realise how much of getting a model to actually work is infrastructure. Serving, scaling, latency, pipelines — this stuff is half the battle and rarely comes up in research. Working through the [System Design Primer](https://github.com/donnemartin/system-design-primer) to get up to speed, mostly so I can have more useful conversations about what evaluation looks like when a system actually has to run at scale.
 
 ### Get in Touch 📢
 
