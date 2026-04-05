@@ -9,9 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Ruchira 👋
-
-PhD Researcher in NLP and AI, based at the [CoAStaL Lab](https://coastalcph.github.io), University of Copenhagen, supervised by Dr. Anders Søgaard. I'm also affiliated with the [Centre for Philosophy of AI](https://cpai.ku.dk/), where I get to think about the broader societal and ethical dimensions of the technology I study every day.
+I'm Ruchira - a PhD Researcher in NLP and AI, based at the [CoAStaL Lab](https://coastalcph.github.io), University of Copenhagen, supervised by Dr. Anders Søgaard. I'm also affiliated with the [Centre for Philosophy of AI](https://cpai.ku.dk/), where I get to think about the broader societal and ethical dimensions of the technology I study every day.
 
 ### Research 🧠
 
