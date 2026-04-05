@@ -257,8 +257,8 @@
     padding: 5px;
     border: 1px solid $border-color;
     border-radius: $border-radius;
-    background: #111111;
-    box-shadow: 0 0 20px rgba(#000, 0.6);
+    background: #fff;
+    box-shadow: 0 0 10px rgba(#000, 0.25);
 
     a {
       margin: 0;
@@ -292,7 +292,7 @@
       width: 0;
       border-style: solid;
       border-width: 0 10px 10px;
-      border-color: #111111 transparent;
+      border-color: #fff transparent;
       display: block;
       z-index: 1;
     }
@@ -374,7 +374,7 @@
   color: $gray;
   text-transform: uppercase;
   letter-spacing: 1px;
-  background-color: #111111;
+  background-color: #fff;
   border: 1px solid $border-color;
   border-radius: $border-radius;
   box-shadow: $box-shadow;
@@ -405,8 +405,8 @@
     border-bottom: 1px solid $border-color;
 
     &:hover {
-      color: #ffffff;
-      background: $light-gray;
+      color: #000;
+      background: $lighter-gray;
     }
   }
 

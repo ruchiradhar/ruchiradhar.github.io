@@ -55,30 +55,30 @@ $sidebar-link-max-width     : 250px;
    Colors
    ========================================================================== */
 
-$gray                       : #888888;
-$dark-gray                  : #555555;
-$darker-gray                : #333333;
-$light-gray                 : #252525;
-$lighter-gray               : #0f0f0f;
+$gray                       : #6c757d;
+$dark-gray                  : #495057;
+$darker-gray                : #343a40;
+$light-gray                 : #adb5bd;
+$lighter-gray               : #f8f9fa;
 
-$body-color                 : #0a0a0a;
-$background-color           : #0a0a0a;
-$code-background-color      : #111111;
-$code-background-color-dark : #1a1a1a;
-$text-color                 : #e2e2e2;
-$border-color               : #1f1f1f;
+$body-color                 : #fdfdff;
+$background-color           : #fdfdff;
+$code-background-color      : #f7f8fc;
+$code-background-color-dark : #e9ecef;
+$text-color                 : #2d3748;
+$border-color               : #e2e8f0;
 
-$primary-color              : #e0e0e0;
+$primary-color              : #4a5568;
 $success-color              : #48bb78;
 $warning-color              : #ed8936;
 $danger-color               : #f56565;
 $info-color                 : #4299e1;
 
 /* Elegant accent colors */
-$accent-navy                : #c8dcff;
-$accent-blue                : #7eb8f7;
-$accent-teal                : #5ecfcd;
-$accent-purple              : #b794f4;
+$accent-navy                : #1a365d;
+$accent-blue                : #3182ce;
+$accent-teal                : #319795;
+$accent-purple              : #805ad5;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -109,10 +109,10 @@ $xing-color                 : #006567;
 
 /* links */
 $link-color                 : $accent-blue;
-$link-color-hover           : #ffffff;
+$link-color-hover           : $accent-navy;
 $link-color-visited         : $accent-teal;
-$masthead-link-color        : #d0d0d0;
-$masthead-link-color-hover  : #ffffff;
+$masthead-link-color        : $accent-navy;
+$masthead-link-color-hover  : $accent-blue;
 
 
 /*
@@ -165,7 +165,7 @@ $susy: (
    ========================================================================== */
 
 $border-radius              : 4px;
-$box-shadow                 : 0 1px 3px rgba(0, 0, 0, 0.5);
+$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;
