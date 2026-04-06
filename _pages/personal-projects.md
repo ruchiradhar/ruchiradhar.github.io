@@ -24,14 +24,24 @@ Small end-to-end builds, prototypes, and practical implementations.
    Description: An image classifier based on the Fashion MNIST dataset.
    Repolink: [mnist_classifier](https://github.com/ruchiradhar/mnist_classifier)
 
+
 ### Learning Repos
 
 Projects focused on learning-by-building, experimentation, and skill development.
 
-1. Learning Statistics
+1. Learning AI
+   Description: A learning-focused repository for AI concepts.
+   Repolink: [learninglab_ai](https://github.com/ruchiradhar/learninglab_ai)
+
+
+2. Learning Statistics
    Description: A learning-focused repository for statistics concepts.
    Repolink: [learninglab_stats](https://github.com/ruchiradhar/learninglab_stats)
 
-2. Learning AI
-   Description: A learning-focused repository for AI concepts.
-   Repolink: [learninglab_ai](https://github.com/ruchiradhar/learninglab_ai)
+
+
+3. Learning C++
+   Description: A learning-focused repository for C++ and DSA concepts.
+   Repolink: [learninglab_ai](https://github.com/ruchiradhar/learninglab_dsa)
+
+
