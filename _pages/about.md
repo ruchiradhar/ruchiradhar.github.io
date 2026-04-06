@@ -15,7 +15,7 @@ I'm Ruchira - a PhD Researcher in NLP and AI, based at the [CoAStaL Lab](https:/
 
 I work on science of evaluation of AI, with a focus on connecting technical model assessment to real-world deployment and use. For more details, see [Research Outlook](/research-outlook/) and [Research Output](/research/). 
 
-More recently, I've also been thinking about what happens to evaluation when there's [multi-agent systems](https://www.anthropic.com/engineering/multi-agent-research-system). Most evaluation today is still single model while we see more and more multi-agent systems being used. Still working through my thoughts on this— here are [slides from a talk](https://docs.google.com/presentation/d/1KIEEOPm9NBGmvGGng7yyONUNGWJDw2m42DNWNqcwdZM/edit?usp=sharing) I gave on this.
+More recently, I've also been thinking about what happens to evaluation when there's [multi-agent systems](https://www.anthropic.com/engineering/multi-agent-research-system). Most evaluation today is still single model while we see more and more multi-agent systems being used. Still working through my thoughts on this— here are some [slides from a talk](https://docs.google.com/presentation/d/1KIEEOPm9NBGmvGGng7yyONUNGWJDw2m42DNWNqcwdZM/edit?usp=sharing) I gave on the topic.
 
 ### Teaching 👩🏽‍🏫
 

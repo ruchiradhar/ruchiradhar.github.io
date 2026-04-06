@@ -7,11 +7,11 @@ author_profile: true
 
 <style>
   .outlook-shell {
-    --outlook-card: rgba(255, 182, 193, 0.08);
-    --outlook-stroke: rgba(255, 182, 193, 0.35);
-    --outlook-glow: rgba(255, 182, 193, 0.2);
-    --outlook-text: #ffd7e4;
-    --outlook-accent: #ff9fc0;
+    --outlook-card: rgba(198, 165, 74, 0.08);
+    --outlook-stroke: rgba(198, 165, 74, 0.35);
+    --outlook-glow: rgba(198, 165, 74, 0.2);
+    --outlook-text: #e0c36f;
+    --outlook-accent: #c6a54a;
     margin: 0.5rem 0 1.2rem;
   }
 
@@ -20,7 +20,7 @@ author_profile: true
     padding: 1.2rem 1.1rem;
     border: 1px solid var(--outlook-stroke);
     border-radius: 14px;
-    background: linear-gradient(130deg, var(--outlook-card), rgba(255, 182, 193, 0.02));
+    background: linear-gradient(130deg, var(--outlook-card), rgba(198, 165, 74, 0.02));
     box-shadow: 0 10px 35px var(--outlook-glow);
     overflow: hidden;
     animation: fadeLift 0.8s ease both;
@@ -33,7 +33,7 @@ author_profile: true
     width: 220px;
     height: 220px;
     border-radius: 999px;
-    background: radial-gradient(circle, rgba(255, 159, 192, 0.25), rgba(255, 159, 192, 0));
+    background: radial-gradient(circle, rgba(224, 195, 111, 0.25), rgba(224, 195, 111, 0));
     animation: pulseGlow 3.2s ease-in-out infinite;
     pointer-events: none;
   }
@@ -74,8 +74,8 @@ author_profile: true
 
   .outlook-btn:hover {
     transform: translateY(-1px);
-    box-shadow: 0 6px 20px rgba(255, 159, 192, 0.28);
-    background: rgba(255, 159, 192, 0.12);
+    box-shadow: 0 6px 20px rgba(224, 195, 111, 0.28);
+    background: rgba(224, 195, 111, 0.12);
     text-decoration: none;
   }
 
@@ -84,7 +84,7 @@ author_profile: true
     border: 1px solid var(--outlook-stroke);
     border-radius: 14px;
     overflow: hidden;
-    background: rgba(255, 182, 193, 0.03);
+    background: rgba(198, 165, 74, 0.03);
     animation: fadeLift 0.95s ease both;
     animation-delay: 0.12s;
   }
@@ -107,9 +107,9 @@ author_profile: true
   .outlook-card {
     border: 1px solid var(--outlook-stroke);
     border-radius: 12px;
-    background: rgba(255, 182, 193, 0.035);
+    background: rgba(198, 165, 74, 0.035);
     padding: 0.95rem 0.95rem;
-    box-shadow: 0 6px 24px rgba(255, 182, 193, 0.08);
+    box-shadow: 0 6px 24px rgba(198, 165, 74, 0.08);
     animation: fadeLift 0.8s ease both;
   }
 

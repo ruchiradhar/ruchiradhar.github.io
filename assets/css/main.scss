@@ -40,12 +40,12 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Global black background + light pink text */
+/* Global black background + chrome/dark-yellow text */
 :root {
   --site-bg: #000000;
-  --site-text: #ffc1dc;
-  --site-link: #ffd3e7;
-  --site-border: rgba(255, 193, 220, 0.45);
+  --site-text: #c6a54a;
+  --site-link: #e0c36f;
+  --site-border: rgba(198, 165, 74, 0.45);
 }
 
 html,
@@ -120,7 +120,7 @@ button {
 }
 
 ::placeholder {
-  color: rgba(255, 193, 220, 0.75) !important;
+  color: rgba(198, 165, 74, 0.75) !important;
 }
 
 /* Slightly smaller body text site-wide (headings unchanged) */
