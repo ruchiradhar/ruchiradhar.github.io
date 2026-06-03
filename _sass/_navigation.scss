@@ -92,7 +92,7 @@
       }
 
       &.current {
-        color: $background-color;
+        color: #ffffff;
         background: $primary-color;
       }
 
@@ -257,8 +257,8 @@
     padding: 5px;
     border: 1px solid $border-color;
     border-radius: $border-radius;
-    background: #0a0a0a;
-    box-shadow: 0 0 20px rgba(#000, 0.6);
+    background: #ffffff;
+    box-shadow: 0 0 10px rgba(#000, 0.15);
 
     a {
       margin: 0;
@@ -267,7 +267,7 @@
 
       &:hover {
         color: $masthead-link-color-hover;
-        background: #161616;
+        background: $lighter-gray;
       }
     }
 
@@ -292,7 +292,7 @@
       width: 0;
       border-style: solid;
       border-width: 0 10px 10px;
-      border-color: #0a0a0a transparent;
+      border-color: #ffffff transparent;
       display: block;
       z-index: 1;
     }
@@ -334,13 +334,13 @@
     margin-left: -0.5em;
     padding-left: 0.5em;
     padding-right: 0.5em;
-    color: $background-color;
+    color: #ffffff;
     font-weight: 500;
     background: $primary-color;
     border-radius: $border-radius;
 
     &:hover {
-      color: $background-color;
+      color: #ffffff;
     }
   }
 }
@@ -374,13 +374,13 @@
   color: $gray;
   text-transform: uppercase;
   letter-spacing: 1px;
-  background-color: $background-color;
+  background-color: #ffffff;
   border: 1px solid $border-color;
   border-radius: $border-radius;
   box-shadow: $box-shadow;
 
   .nav__title {
-    color: $background-color;
+    color: #ffffff;
     font-size: $type-size-6;
     background: $primary-color;
     border-top-left-radius: $border-radius;

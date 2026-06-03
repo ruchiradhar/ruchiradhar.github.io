@@ -40,12 +40,12 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Global dark theme */
+/* Global light theme */
 :root {
-  --site-bg: #0a0a0a;
-  --site-text: #e8e8e8;
-  --site-link: #ffffff;
-  --site-border: rgba(255, 255, 255, 0.1);
+  --site-bg: #ffffff;
+  --site-text: #111111;
+  --site-link: #111111;
+  --site-border: rgba(0, 0, 0, 0.1);
 }
 
 html,
@@ -120,7 +120,7 @@ button {
 }
 
 ::placeholder {
-  color: rgba(255, 255, 255, 0.35) !important;
+  color: rgba(0, 0, 0, 0.35) !important;
 }
 
 /* Slightly smaller body text site-wide (headings unchanged) */
@@ -153,7 +153,7 @@ blockquote {
 .about-home .page__content h4,
 .about-home .page__content h5,
 .about-home .page__content h6 {
-  color: #ffffff !important;
+  color: #111111 !important;
 }
 
 .about-home .page__title,
@@ -170,6 +170,9 @@ blockquote {
 .about-home .page__content h3 {
   font-size: clamp(1.55rem, 2.25vw, 1.8rem);
   line-height: 1.25;
+  padding-bottom: 0.45em;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+  margin-bottom: 0.9em;
 }
 
 .about-home .page__content h4 {
