@@ -40,12 +40,12 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Global black background + chrome/dark-yellow text */
+/* Global dark theme */
 :root {
-  --site-bg: #000000;
-  --site-text: #c6a54a;
-  --site-link: #e0c36f;
-  --site-border: rgba(198, 165, 74, 0.45);
+  --site-bg: #0a0a0a;
+  --site-text: #e8e8e8;
+  --site-link: #ffffff;
+  --site-border: rgba(255, 255, 255, 0.1);
 }
 
 html,
@@ -120,7 +120,7 @@ button {
 }
 
 ::placeholder {
-  color: rgba(198, 165, 74, 0.75) !important;
+  color: rgba(255, 255, 255, 0.35) !important;
 }
 
 /* Slightly smaller body text site-wide (headings unchanged) */

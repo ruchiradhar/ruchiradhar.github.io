@@ -22,9 +22,7 @@ More recently, I've been thinking about what happens to evaluation in [multi-age
 ### Affiliations
 
 - **Visiting Researcher, [LRE Lab, ETH Zurich](https://lre.inf.ethz.ch/)** (2026–Present). Working on efficient evaluation for AI systems.
-
 - **Working Member, [EvalEval Coalition](https://evalevalai.com/)** (2025–Present). Contributing to community efforts around robust and responsible AI evaluation.
-
 - **Venture Fellow, [Creator Fund](https://thecreatorfund.com/university-team/)** (2025–Present). Exploring the intersection of research and entrepreneurship.
 - **Open Science Lead, [Cohere Labs](https://cohere.com/research)** (2024–Present). Organising talks, socials, and meetups to support open-source AI research.
 
