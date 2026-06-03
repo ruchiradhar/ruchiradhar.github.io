@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Ruchira — a PhD Researcher in NLP and AI at the [CoAStaL Lab](https://coastalcph.github.io), University of Copenhagen, supervised by Dr. Anders Søgaard. Currently visiting the [LRE Lab](https://lre.inf.ethz.ch/) at ETH Zurich.
+I'm Ruchira, a PhD Researcher in NLP and AI at the [CoAStaL Lab](https://coastalcph.github.io), University of Copenhagen, supervised by Dr. Anders Søgaard. Currently visiting the [LRE Lab](https://lre.inf.ethz.ch/) at ETH Zurich.
 
 I'm also affiliated with the [Centre for Philosophy of AI](https://cpai.ku.dk/), where I think about the broader societal and ethical dimensions of the technology I study every day.
 
@@ -30,10 +30,10 @@ More recently, I've been thinking about what happens to evaluation in [multi-age
 
 ### Teaching
 
-Teaching Assistant, [NLP Course](https://kurser.ku.dk/course/ndak18000u/2025-2026), University of Copenhagen (2023–Present). Two years in, it remains one of the most rewarding parts of my PhD — there's something genuinely satisfying about helping students get their first foothold in the field.
+Teaching Assistant, [NLP Course](https://kurser.ku.dk/course/ndak18000u/2025-2026), University of Copenhagen (2023–Present). Two years in, it remains one of the most rewarding parts of my PhD. There's something genuinely satisfying about helping students get their first foothold in the field.
 
 ### Contact
 
-Whether you want to debate evaluation metrics, talk AI safety and policy, or just say hi — find me on LinkedIn or drop a line at [this email](mailto:rudh@di.ku.dk).
+Whether you want to debate evaluation metrics, talk AI safety and policy, or just say hi, find me on LinkedIn or drop a line at [this email](mailto:rudh@di.ku.dk).
 
-Based in Copenhagen — coffee recommendations always welcome.
+Based in Copenhagen. Coffee recommendations always welcome.

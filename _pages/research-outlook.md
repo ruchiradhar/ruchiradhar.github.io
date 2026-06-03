@@ -7,11 +7,11 @@ author_profile: true
 
 <style>
   .outlook-shell {
-    --outlook-card: rgba(198, 165, 74, 0.08);
-    --outlook-stroke: rgba(198, 165, 74, 0.35);
-    --outlook-glow: rgba(198, 165, 74, 0.2);
-    --outlook-text: #e0c36f;
-    --outlook-accent: #c6a54a;
+    --outlook-card: rgba(255, 255, 255, 0.03);
+    --outlook-stroke: rgba(255, 255, 255, 0.1);
+    --outlook-glow: rgba(255, 255, 255, 0.04);
+    --outlook-text: #e8e8e8;
+    --outlook-accent: #ffffff;
     margin: 0.5rem 0 1.2rem;
   }
 
@@ -20,7 +20,7 @@ author_profile: true
     padding: 1.2rem 1.1rem;
     border: 1px solid var(--outlook-stroke);
     border-radius: 14px;
-    background: linear-gradient(130deg, var(--outlook-card), rgba(198, 165, 74, 0.02));
+    background: linear-gradient(130deg, var(--outlook-card), rgba(255, 255, 255, 0.01));
     box-shadow: 0 10px 35px var(--outlook-glow);
     overflow: hidden;
     animation: fadeLift 0.8s ease both;
@@ -33,7 +33,7 @@ author_profile: true
     width: 220px;
     height: 220px;
     border-radius: 999px;
-    background: radial-gradient(circle, rgba(224, 195, 111, 0.25), rgba(224, 195, 111, 0));
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.06), rgba(255, 255, 255, 0));
     animation: pulseGlow 3.2s ease-in-out infinite;
     pointer-events: none;
   }
@@ -74,8 +74,8 @@ author_profile: true
 
   .outlook-btn:hover {
     transform: translateY(-1px);
-    box-shadow: 0 6px 20px rgba(224, 195, 111, 0.28);
-    background: rgba(224, 195, 111, 0.12);
+    box-shadow: 0 6px 20px rgba(255, 255, 255, 0.08);
+    background: rgba(255, 255, 255, 0.07);
     text-decoration: none;
   }
 
@@ -84,7 +84,7 @@ author_profile: true
     border: 1px solid var(--outlook-stroke);
     border-radius: 14px;
     overflow: hidden;
-    background: rgba(198, 165, 74, 0.03);
+    background: rgba(255, 255, 255, 0.02);
     animation: fadeLift 0.95s ease both;
     animation-delay: 0.12s;
   }
@@ -107,9 +107,9 @@ author_profile: true
   .outlook-card {
     border: 1px solid var(--outlook-stroke);
     border-radius: 12px;
-    background: rgba(198, 165, 74, 0.035);
+    background: rgba(255, 255, 255, 0.02);
     padding: 0.95rem 0.95rem;
-    box-shadow: 0 6px 24px rgba(198, 165, 74, 0.08);
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.3);
     animation: fadeLift 0.8s ease both;
   }
 
@@ -192,41 +192,38 @@ author_profile: true
     <article class="outlook-card">
       <h3>Personal Background</h3>
       <p>
-        I am a PhD researcher in Computer Science at the University of Copenhagen working on large language model evaluation and responsible AI. My academic background in linguistics and cognitive science, combined with industry experience in applied NLP and generative AI, has shaped a research agenda centered on understanding, evaluating, and responsibly communicating the capabilities of language technologies.
+        PhD researcher in Computer Science at the University of Copenhagen (CoAStaL NLP group). Background in linguistics, cognitive science, and applied NLP. Research agenda centres on the scientific and epistemic foundations of LLM evaluation.
       </p>
     </article>
 
     <article class="outlook-card">
       <h3>Research Statement</h3>
       <p>
-        My research is motivated by a longstanding interest in human cognition and language. My training in linguistics and cognitive science led me to questions about how humans represent meaning, process language, and interpret the world through communication. Over time, this interest expanded into machine cognition: if language models are increasingly used as proxies for humans, what kinds of capabilities do we actually want them to possess, and how should we evaluate those capabilities in a scientifically meaningful and socially responsible way?
-      </p>
-      <p>
-        My work focuses primarily on evaluation. I am interested in the foundational question of what it means for an AI system to perform well, and whether current evaluation practices, tools, and methodological assumptions are adequate for answering that question. This involves not only measuring model performance, but also examining the conceptual choices behind evaluation practices. I see evaluation as both a technical and epistemic problem: it requires us to define which capacities matter, determine how they can be measured, and communicate results in ways that are interpretable and useful across research, industry, and governance settings.
+        My work asks: what does it mean for a language model to perform well, and are current evaluation practices adequate for answering that? I treat evaluation as both a technical and epistemic problem: one that requires defining which capacities matter, operationalising them rigorously, and communicating results in ways that hold up across research, industry, and governance contexts.
       </p>
     </article>
 
     <article class="outlook-card">
       <h3>Cognitive Evaluation Strand</h3>
       <p>
-        A first strand of my research concerns the evaluation of cognitive aspects of language processing. I am interested in whether and in what ways machines exhibit properties that resemble human language understanding, reasoning, or representation. Rather than taking human-like behavior at face value, I aim to investigate it carefully: which aspects of cognition are meaningfully comparable, where the analogies break down, and what such comparisons reveal about both human and machine intelligence.
+        Investigates whether and how LLMs approximate human language processing and conceptual representation. Rather than accepting surface behavioural similarity, I examine where the cognitive analogy holds, where it breaks down, and what those limits reveal about the nature of machine intelligence. Current focus: compositionality and semantic representation.
       </p>
     </article>
 
     <article class="outlook-card">
       <h3>Methodological Evaluation Strand</h3>
       <p>
-        A second strand of my work addresses methodological questions in AI evaluation. I am interested in how evaluation datasets are designed, how tasks operationalize complex constructs, and how conclusions about model ability are drawn from benchmark results. My goal is to contribute to more rigorous and transparent evaluation frameworks that move beyond narrow performance metrics and instead capture the broader validity, limitations, and intended use of an assessment. In this regard, I see evaluation as an essential scientific infrastructure for AI: without careful methodology, our claims about intelligence, reasoning, or usefulness remain underspecified.
+        <strong>Generality evaluation.</strong> Current benchmarks optimise for narrow task performance, yielding capability claims that do not generalise. I work on evaluation designs that better characterise the scope and limits of model capabilities, shifting the question from "does the model pass this benchmark" to "what does passing reveal about underlying competence."
+      </p>
+      <p>
+        <strong>Efficient evaluation via psychometrics.</strong> Comprehensive evaluation is expensive; most practitioners cannot afford it at scale. I apply psychometric methods (item response theory, adaptive testing) to build evaluation instruments that yield reliable capability estimates with substantially fewer test items, without sacrificing measurement validity.
       </p>
     </article>
 
     <article class="outlook-card">
       <h3>Governance and Communication Strand</h3>
       <p>
-        A third strand of my research engages with the regulatory and communicative dimensions of evaluation. As AI systems are deployed to wider publics and increasingly shape decisions across domains, it becomes important not only to evaluate systems well, but also to standardize how evaluation is reported and communicated. I am particularly interested in frameworks that make evaluation results more transparent, comparable, and accountable for different stakeholders, including researchers, developers, policymakers, and end users. My work on standardized reporting emerges from this concern that evaluation should support informed governance and responsible adoption, not merely internal model comparison.
-      </p>
-      <p>
-        Across these directions, my broader aim is to build evaluation methods that are technically rigorous, conceptually grounded, and socially responsive. I want to contribute to a research culture in which AI systems are not only optimized for performance, but also examined in terms of what their capabilities mean, how they are measured, and how those measurements are communicated. By combining insights from linguistics, cognitive science, and computer science, I hope to advance a more human-centered and transparent science of AI evaluation.
+        As AI systems enter high-stakes deployment contexts, how evaluation is reported becomes as consequential as how it is designed. I work on standardised reporting frameworks (see: EvalCards) that make evaluation results auditable and interpretable across researcher, developer, and policymaker audiences, supporting informed governance rather than internal model comparison.
       </p>
     </article>
   </section>
