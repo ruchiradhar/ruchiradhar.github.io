@@ -14,7 +14,7 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$sans-serif                 : "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
@@ -55,30 +55,30 @@ $sidebar-link-max-width     : 250px;
    Colors
    ========================================================================== */
 
-$gray                       : #6c757d;
-$dark-gray                  : #495057;
-$darker-gray                : #343a40;
-$light-gray                 : #adb5bd;
-$lighter-gray               : #f8f9fa;
+$gray                       : #888888;
+$dark-gray                  : #444444;
+$darker-gray                : #222222;
+$light-gray                 : #cccccc;
+$lighter-gray               : #f5f5f5;
 
-$body-color                 : #fdfdff;
-$background-color           : #fdfdff;
-$code-background-color      : #f7f8fc;
-$code-background-color-dark : #e9ecef;
-$text-color                 : #2d3748;
-$border-color               : #e2e8f0;
+$body-color                 : #ffffff;
+$background-color           : #ffffff;
+$code-background-color      : #f5f5f5;
+$code-background-color-dark : #e8e8e8;
+$text-color                 : #111111;
+$border-color               : #e8e8e8;
 
-$primary-color              : #4a5568;
-$success-color              : #48bb78;
-$warning-color              : #ed8936;
-$danger-color               : #f56565;
-$info-color                 : #4299e1;
+$primary-color              : #111111;
+$success-color              : #333333;
+$warning-color              : #555555;
+$danger-color               : #333333;
+$info-color                 : #444444;
 
-/* Elegant accent colors */
-$accent-navy                : #1a365d;
-$accent-blue                : #3182ce;
-$accent-teal                : #319795;
-$accent-purple              : #805ad5;
+/* Monochrome accent */
+$accent-navy                : #000000;
+$accent-blue                : #111111;
+$accent-teal                : #555555;
+$accent-purple              : #333333;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -165,7 +165,7 @@ $susy: (
    ========================================================================== */
 
 $border-radius              : 4px;
-$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$box-shadow                 : 0 1px 3px rgba(0, 0, 0, 0.07);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;

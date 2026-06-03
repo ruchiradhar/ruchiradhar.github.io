@@ -94,8 +94,9 @@
     border-radius: 50%;
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      padding: 0;
+      border: none;
+      box-shadow: 0 4px 24px rgba(0, 0, 0, 0.10);
     }
   }
 }
@@ -182,17 +183,14 @@
 }
 
 .author__urls {
-  display: none;
-  position: absolute;
-  right: 0;
-  margin-top: 15px;
-  padding: 10px;
+  display: block;
+  position: relative;
+  margin: 0;
+  padding: 0;
   list-style-type: none;
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-  background: #fff;
-  z-index: -1;
-  box-shadow: 0 0 10px rgba(#000, 0.25);
+  border: 0;
+  background: transparent;
+  box-shadow: none;
   cursor: default;
 
   @include breakpoint($large) {
@@ -249,12 +247,14 @@
     padding-right: 5px;
     padding-top: 2px;
     padding-bottom: 2px;
-    color: inherit;
+    color: $dark-gray;
     font-size: $type-size-5;
     text-decoration: none;
+    transition: color 0.15s ease;
 
     &:hover {
-      text-decoration: underline;
+      color: $text-color;
+      text-decoration: none;
     }
   }
 }

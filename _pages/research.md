@@ -5,19 +5,15 @@ permalink: /research/
 author_profile: true
 ---
 
+## Publications
 
+**[Evaluating Adjective-Noun Compositionality in LLMs: Functional vs Representational Perspectives](https://arxiv.org/abs/2603.09994)**\
+**Ruchira Dhar**, Qiwei Peng, Anders Søgaard \
+*Published at [The 15th Joint Conference on Lexical and Computational Semantics (*SEM), ACL 2026](https://starsem2026.github.io/)*
 
 **[Realist and Pluralist Conceptions of Intelligence and Their Implications on AI Research](https://arxiv.org/abs/2511.15282)** \
 Ninell Oldenburg, **Ruchira Dhar**, Anders Søgaard \
 *Published at [AAAI Conference, 2026](https://aaai.org/conference/aaai/aaai-26/) (Oral, Alignment Track)*
-
-**[On the Measure of a Model:From Intelligence to Generality](https://arxiv.org/abs/2511.11773)** \
-**Ruchira Dhar**, Ninell Oldenburg, Anders Søgaard \
-*Accepted at The Science of Benchmarking and Evaluating AI Workshop @ [EurIPS Conference, 2025](https://eurips.cc/)*
-
-**[EvalCards: A Framework for Standardized Evaluation Reporting](https://arxiv.org/abs/2511.21695)** \
-**Ruchira Dhar**, Danae Sanchez Villegas, Antonia Karamolegkou, Alice Schiavone, Yifei Yuan, Xinyi Chen, Jiaang Li, Stella Frank, Laura De Grazia, Monorama Swain, Stephanie Brandl, Daniel Hershcovich, Anders Søgaard, Desmond Elliott  \
-*Accepted at The Science of Benchmarking and Evaluating AI Workshop @ [EurIPS Conference, 2025](https://eurips.cc/)*
 
 **[Beyond Technocratic XAI: The Who, What & How in Explanation Design](https://ojs.aaai.org/index.php/AIES/article/view/36586)** \
 **Ruchira Dhar** , Stephanie Brandl, Ninell Oldenburg, Anders Søgaard \
@@ -34,6 +30,18 @@ Hyewon Willow Han, **Ruchira Dhar**, Qingqing Yang, Maryam Hoseini Behbahani, Ma
 **[Defining Knowledge: Bridging Epistemology and Large Language Models](https://aclanthology.org/2024.emnlp-main.900/)** \
 Constanza Fierro, **Ruchira Dhar**, Filippos Stamatiou, Nicolas Garneau, Anders Søgaard \
 *Published at [Empirical Methods in Natural Language Processing (EMNLP), 2024](https://2024.emnlp.org/)*
+
+---
+
+## Presentations
+
+**[On the Measure of a Model: From Intelligence to Generality](https://arxiv.org/abs/2511.11773)** \
+**Ruchira Dhar**, Ninell Oldenburg, Anders Søgaard \
+*Accepted at The Science of Benchmarking and Evaluating AI Workshop @ [EurIPS Conference, 2025](https://eurips.cc/)*
+
+**[EvalCards: A Framework for Standardized Evaluation Reporting](https://arxiv.org/abs/2511.21695)** \
+**Ruchira Dhar**, Danae Sanchez Villegas, Antonia Karamolegkou, Alice Schiavone, Yifei Yuan, Xinyi Chen, Jiaang Li, Stella Frank, Laura De Grazia, Monorama Swain, Stephanie Brandl, Daniel Hershcovich, Anders Søgaard, Desmond Elliott \
+*Accepted at The Science of Benchmarking and Evaluating AI Workshop @ [EurIPS Conference, 2025](https://eurips.cc/)*
 
 **[From Words to Worlds: Compositionality for Cognitive Architectures](https://openreview.net/forum?id=2eA9b52PAW)** \
 **Ruchira Dhar**, Anders Søgaard \

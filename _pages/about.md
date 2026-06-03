@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello"
+title: ""
 excerpt: "About me"
 author_profile: true
 classes: about-home
@@ -9,32 +9,31 @@ redirect_from:
   - /about.html
 ---
 
-I'm Ruchira - a PhD Researcher in NLP and AI, based at the [CoAStaL Lab](https://coastalcph.github.io), University of Copenhagen, supervised by Dr. Anders Søgaard. I'm also affiliated with the [Centre for Philosophy of AI](https://cpai.ku.dk/), where I get to think about the broader societal and ethical dimensions of the technology I study every day.
+I'm Ruchira — a PhD Researcher in NLP and AI at the [CoAStaL Lab](https://coastalcph.github.io), University of Copenhagen, supervised by Dr. Anders Søgaard. Currently visiting the [LRE Lab](https://lre.inf.ethz.ch/) at ETH Zurich.
 
-### Research 🧠
+I'm also affiliated with the [Centre for Philosophy of AI](https://cpai.ku.dk/), where I think about the broader societal and ethical dimensions of the technology I study every day.
 
-I work on science of evaluation of AI, with a focus on connecting technical model assessment to real-world deployment and use. For more details, see [Research Outlook](/research-outlook/) and [Research Output](/research/). 
+### Research
 
-More recently, I've also been thinking about what happens to evaluation when there's [multi-agent systems](https://www.anthropic.com/engineering/multi-agent-research-system). Most evaluation today is still single model while we see more and more multi-agent systems being used. Still working through my thoughts on this— here are some [slides from a talk](https://docs.google.com/presentation/d/1KIEEOPm9NBGmvGGng7yyONUNGWJDw2m42DNWNqcwdZM/edit?usp=sharing) I gave on the topic.
+I work on the science of AI evaluation, with a focus on connecting technical model assessment to real-world deployment and use. For more details, see [Research Outlook](/research-outlook/) and [Research Output](/research/).
 
-### Teaching 👩🏽‍🏫
+More recently, I've been thinking about what happens to evaluation in [multi-agent systems](https://www.anthropic.com/engineering/multi-agent-research-system). Most evaluation frameworks assume a single model, yet multi-agent deployments are becoming the norm. Here are [slides from a recent talk](https://docs.google.com/presentation/d/1KIEEOPm9NBGmvGGng7yyONUNGWJDw2m42DNWNqcwdZM/edit?usp=sharing) on the topic.
 
-I'm a Teaching Assistant for the [NLP Course at KU](https://kurser.ku.dk/course/ndak18000u/2025-2026) — a role I've held for two years and genuinely enjoy. There's something really rewarding about helping students get their first foothold in the field.
+### Affiliations
 
-### Community & Beyond 🌍
+- **Visiting Researcher, [LRE Lab, ETH Zurich](https://lre.inf.ethz.ch/)** (2026–Present). Working on efficient evaluation for AI systems.
 
+- **Working Member, [EvalEval Coalition](https://evalevalai.com/)** (2025–Present). Contributing to community efforts around robust and responsible AI evaluation.
 
-- Working Member @ [EvalEval Coalition](https://evalevalai.com/) (2025-Present) — contributing to community efforts around robust and responsible AI evaluation.
-- Venture Fellow @ [Creator Fund](https://thecreatorfund.com/university-team/) (2025-Present) — exploring the intersection of research and entrepreneurship.
-- Open Science Lead @ [Cohere Labs](https://cohere.com/research) (2025-Present) — I organise talks, socials, and meetups to support open-source AI research and build a collaborative community around it.
+- **Venture Fellow, [Creator Fund](https://thecreatorfund.com/university-team/)** (2025–Present). Exploring the intersection of research and entrepreneurship.
+- **Open Science Lead, [Cohere Labs](https://cohere.com/research)** (2024–Present). Organising talks, socials, and meetups to support open-source AI research.
 
+### Teaching
 
+Teaching Assistant, [NLP Course](https://kurser.ku.dk/course/ndak18000u/2025-2026), University of Copenhagen (2023–Present). Two years in, it remains one of the most rewarding parts of my PhD — there's something genuinely satisfying about helping students get their first foothold in the field.
 
-### Get in Touch 📢
+### Contact
 
 Whether you want to debate evaluation metrics, talk AI safety and policy, or just say hi — find me on LinkedIn or drop a line at [this email](mailto:rudh@di.ku.dk).
 
 Based in Copenhagen — coffee recommendations always welcome.
-
-
-

@@ -4,8 +4,10 @@
 
 .masthead {
   position: fixed;
-  background: white;
-  border-bottom: 1px solid $border-color;
+  background: rgba(255, 255, 255, 0.88);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
   height: $masthead-height;
   top: 0;
   width: 100%;
@@ -54,5 +56,14 @@
   &--lg {
     padding-right: 2em;
     font-weight: 700;
+    font-size: 0.95em;
+    letter-spacing: -0.01em;
   }
+}
+
+.masthead__menu-item:not(.masthead__menu-item--lg) a {
+  font-size: 0.72em;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
 }
