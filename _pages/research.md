@@ -3,6 +3,7 @@ layout: archive
 title: "Research Output"
 permalink: /research/
 author_profile: true
+classes: research-page
 ---
 
 ## Publications
@@ -46,3 +47,9 @@ Constanza Fierro, **Ruchira Dhar**, Filippos Stamatiou, Nicolas Garneau, Anders 
 **[From Words to Worlds: Compositionality for Cognitive Architectures](https://openreview.net/forum?id=2eA9b52PAW)** \
 **Ruchira Dhar**, Anders Søgaard \
 *Accepted at [LLMs & Cognition Workshop @ International Conference on Machine Learning (ICML), 2024](https://icml.cc/virtual/2024/workshop/29963)*
+
+
+## Preprints
+
+**[Evaluation Revisited: A Taxonomy of Evaluation Concerns in Natural Language Processing](https://arxiv.org/abs/2604.25923)** \
+**Ruchira Dhar**, Anders Søgaard 

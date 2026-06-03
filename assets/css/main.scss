@@ -200,3 +200,17 @@ blockquote {
 .about-home .page__content h4 + p + p strong {
   font-size: inherit;
 }
+
+/* Research page — smaller publication text, headings unchanged */
+.research-page .page__content p,
+.research-page .page__content li,
+.research-page .page__content em {
+  font-size: 0.8rem;
+  line-height: 1.6;
+}
+
+.research-page .page__content h2 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
