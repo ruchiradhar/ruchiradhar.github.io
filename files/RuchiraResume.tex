@@ -1,0 +1,202 @@
+% ATS-compliant resume for Ruchira Dhar
+% Compile with: pdflatex RuchiraResume.tex
+\documentclass[11pt,letterpaper]{article}
+
+\usepackage[top=0.75in, bottom=0.75in, left=0.9in, right=0.9in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{parskip}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage[hidelinks]{hyperref}
+\usepackage{microtype}
+
+% Section formatting — bold, full-width rule underneath
+\titleformat{\section}
+  {\large\bfseries\uppercase}{}{0em}{}[\titlerule]
+\titlespacing*{\section}{0pt}{10pt}{5pt}
+
+\setlist[itemize]{leftmargin=*, itemsep=2pt, topsep=3pt, parsep=0pt}
+\pagestyle{empty}
+
+% Helper: right-aligned date on the same line as a bold title
+\newcommand{\entry}[2]{%
+  \noindent\textbf{#1}\hfill\textit{#2}\\[-2pt]%
+}
+
+\begin{document}
+
+% ------------------------------------------------------------------ HEADER --
+\begin{center}
+  {\LARGE\bfseries Ruchira Dhar}\\[6pt]
+  %Copenhagen, Denmark
+  \enspace$\cdot$\enspace \href{mailto:rudh@di.ku.dk}{Email: rudh@di.ku.dk}
+  \enspace$\cdot$\enspace \\
+    \href{https://ruchiradhar.github.io}{Website}
+  \enspace$\cdot$\enspace
+    \href{https://linkedin.com/in/ruchira-dhar-105427122}{LinkedIn}
+  \enspace$\cdot$\enspace
+    \href{https://scholar.google.com/citations?user=YgAMn9gAAAAJ}{Google Scholar}
+\end{center}
+
+% --------------------------------------------------------------- EDUCATION --
+\section{Education}
+
+\entry{PhD in Computer Science}{2023 -- Present}
+University of Copenhagen \hfill Copenhagen, Denmark\\
+Supervisor: Dr.\ Anders S\o{}gaard (PhD, University of Copenhagen)\\
+\textit{Research Focus}: AI Evaluation, Efficient Evaluation, LLM
+
+\medskip
+
+\entry{Masters in Linguistics}{2018--2020}
+English and Foreign Languages University \hfill Hyderabad, India\\
+Supervisor: Dr.\ Utpal Lahiri (PhD, MIT)\\
+\textit{Course}: Natural Language Processing, Artificial Neural Networks, Mathematical Linguistics
+
+% --------------------------------------------------------------- EXPERIENCE --
+\section{Experience}
+
+\entry{AI Scientist,  Flowrite Oy (Helsinki, Finland)}{02/2022 -- 06/2023}
+\textit{Early-stage startup in productivity enhancement with Generative AI}
+\begin{itemize}
+  \item Building model evaluation pipelines for generative LLMs
+  \item Developed large-scale annotation and user feedback frameworks for model alignment
+\end{itemize}
+
+\medskip
+\entry{NLG Engineer, Cerence Inc (Pune, India)}{05/2021 -- 02/2022}
+\textit{Enterprise language \& speech technology for the automotive industry}
+\begin{itemize}
+  \item Engineered NLG and Speech Recognition for multilingual voice assistants across 10+ languages
+  \item Conducted evaluation for speech-driven interactions in real-world automotive settings
+\end{itemize}
+
+\medskip
+\entry{Associate Engineer, Kore AI (Hyderabad, India)}{01/2021 -- 05/2021}
+\textit{Enterprise conversational AI solutions}
+\begin{itemize}
+  \item Developed production-ready chatbot solutions leveraging intent classification and entity recognition
+  \item Collaborated with cross-functional teams to deliver AI-powered tools for customer engagement
+\end{itemize}
+
+\medskip
+\entry{Research Fellow, Indian Institute of Technology (IIT) (Delhi, India)}{09/2020 -- 12/2020}
+Delhi, India
+\begin{itemize}
+  \item Advanced research on multilingual semantic annotation pipelines in NLP
+\end{itemize}
+
+
+% ------------------------------------------------------------ AFFILIATIONS --
+\section{Affiliations}
+
+\entry{Visiting Researcher, LRE Lab, ETH Zurich}{2026 -- Present}
+Researching low-cost efficient evaluation methods for LLMs.
+
+
+
+\medskip
+\entry{Venture Fellow, Creator Fund}{2025 -- Present}
+Evaluating product and infrastructure for AI startups for technical diligence.
+
+\medskip
+\entry{Open Science Lead, Cohere Labs}{2024 -- Present}
+Driving AI research engagement across a global community of 200+ researchers.
+
+\medskip
+\entry{Fellow, Centre for Philosophy of AI, University of Copenhagen}{2023 -- Present}
+Leading research on the socio-ethical implications of AI systems and AI governance.
+
+
+% ------------------------------------------------------ FIRST-AUTHOR PUBS --
+\section{First-Author Publications}
+
+\begin{itemize}
+
+  \item \textbf{Ruchira Dhar}, Qiwei Peng, Anders S\o{}gaard.
+    ``Evaluating Adjective-Noun Compositionality in LLMs: Functional vs
+    Representational Perspectives.''
+    \textit{The 15th Joint Conference on Lexical and Computational Semantics
+    (*SEM), ACL}, 2026. \url{https://arxiv.org/abs/2603.09994}
+
+  \item \textbf{Ruchira Dhar}, Stephanie Brandl, Ninell Oldenburg,
+    Anders S\o{}gaard.
+    ``Beyond Technocratic XAI: The Who, What \& How in Explanation Design.''
+    \textit{AAAI/ACM Conference on AI, Ethics, \& Society (AIES)}, 2025. \url{https://ojs.aaai.org/index.php/AIES/article/view/36586}
+
+\end{itemize}
+
+% ---------------------------------------- FIRST-AUTHOR WORKSHOP / PREPRINT --
+\section{First Author Workshop Papers \& Preprints}
+
+\begin{itemize}
+
+  \item \textbf{Ruchira Dhar}, Anders S\o{}gaard.
+    ``Evaluation Revisited: A Taxonomy of Evaluation Concerns in Natural
+    Language Processing.''
+    \textit{Preprint}, 2026.\\
+    \url{https://arxiv.org/abs/2604.25923}
+
+  \item \textbf{Ruchira Dhar}, Ninell Oldenburg, Anders S\o{}gaard.
+    ``On the Measure of a Model: From Intelligence to Generality.''
+    \textit{Science of Benchmarking and Evaluating AI Workshop, EurIPS}, 2025.\\
+    \url{https://arxiv.org/abs/2511.11773}
+
+  \item \textbf{Ruchira Dhar}, Danae Sanchez Villegas, Antonia Karamolegkou,
+    Alice Schiavone, Yifei Yuan, Xinyi Chen, Jiaang Li, Stella Frank,
+    Laura De Grazia, Monorama Swain, Stephanie Brandl, Daniel Hershcovich,
+    Anders S\o{}gaard, Desmond Elliott.
+    ``EvalCards: A Framework for Standardized Evaluation Reporting.''
+    \textit{Science of Benchmarking and Evaluating AI Workshop, EurIPS}, 2025.\\
+    \url{https://arxiv.org/abs/2511.21695}
+
+  \item \textbf{Ruchira Dhar}, Anders S\o{}gaard.
+    ``From Words to Worlds: Compositionality for Cognitive Architectures.''
+    \textit{LLMs \& Cognition Workshop, ICML}, 2024.\\
+    \url{https://openreview.net/forum?id=2eA9b52PAW}
+
+\end{itemize}
+
+% ----------------------------------------------------------- INVITED TALKS --
+\section{Invited Talks}
+
+\begin{itemize}
+
+  \item ``Are We Testing the Right Things in Multi-Agent AI?''\\
+    UKAI Forum \& Meridian Cambridge, St John's College,
+    Cambridge, United Kingdom. October 2025.
+
+  \item ``The Completeness Problem: Beyond Human Metrics in Assessing
+    Abilities of Cognitive Systems.''\\
+    International Symposium on AI \& Neuroscience (ACAIN),
+    Italy. September 2024.
+
+\end{itemize}
+
+% --------------------------------------------------------------- TEACHING --
+\section{Teaching}
+
+\entry{Teaching Assistant --- NLP Course (NDAK18000U)}{2023 -- Present}
+Department of Computer Science, University of Copenhagen\\
+Undergraduate and graduate-level instruction in natural language processing.
+
+% ------------------------------------------------------- SKILLS --
+\section{Skills}
+
+\noindent
+\textbf{Research:}
+  Natural Language Processing, Large Language Model, AI Benchmarking,
+  Multi-Agent Systems, Responsible AI, AI Governance, Cognitive Science,
+  Explainable AI (XAI), Linguistics\\[3pt]
+\textbf{Software:}
+  Python, PyTorch, HuggingFace Transformers, Scikit-Learn, NumPy, Pandas,
+  SpaCy, NLTK, Jupyter, Git, LaTeX.\\[3pt]
+\textbf{Languages:}
+Danish (Limited Working Proficiency),
+English (Native Proficiency), 
+Bengali (Native Proficiency),
+Hindi (Native Proficiency)
+
+\end{document}
