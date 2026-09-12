@@ -3,14 +3,11 @@ main:
   #- title: "Publications"
   #  url: /publications/
 
-  - title: "Talks"
-    url: /talks/   
-
-  - title: "Research Outlook"
-    url: /research-outlook/ 
-
   - title: "Research Output"
     url: /research/
+
+  - title: "Talks"
+    url: /talks/
 
   - title: "Personal Projects"
     url: /personal-projects/
@@ -25,7 +22,7 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: /files/RuchiraResume.pdf
+    url: /cv/
     
   #- title: "Guide"
   #  url: /markdown/

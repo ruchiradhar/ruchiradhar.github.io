@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" width="160" height="120" role="img" aria-label="Pixel grid image classifier">
+  <rect width="160" height="120" rx="8" fill="#faf9f7"/>
+  <g fill="#1a1a1a" opacity="0.16">
+    <rect x="34" y="24" width="72" height="72" rx="3"/>
+  </g>
+  <g fill="#1a1a1a">
+    <rect x="58" y="36" width="12" height="12"/>
+    <rect x="70" y="36" width="12" height="12"/>
+    <rect x="46" y="48" width="12" height="12"/>
+    <rect x="82" y="48" width="12" height="12"/>
+    <rect x="46" y="60" width="12" height="12"/>
+    <rect x="82" y="60" width="12" height="12"/>
+    <rect x="58" y="72" width="12" height="12"/>
+    <rect x="70" y="72" width="12" height="12"/>
+  </g>
+  <g fill="none" stroke="#b5533a" stroke-width="1.8" stroke-linecap="round">
+    <path d="M112 44h20M112 56h14M112 68h20"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" width="160" height="120" role="img" aria-label="Essay page with a grade check">
+  <rect width="160" height="120" rx="8" fill="#faf9f7"/>
+  <g fill="none" stroke="#1a1a1a" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M46 22h44l16 16v60H46z"/>
+    <path d="M90 22v16h16"/>
+    <path d="M57 52h38M57 62h38M57 72h26"/>
+  </g>
+  <circle cx="101" cy="80" r="16" fill="#b5533a"/>
+  <path d="M94 80l5 5l10-11" fill="none" stroke="#faf9f7" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

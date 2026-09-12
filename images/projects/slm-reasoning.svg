@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" width="160" height="120" role="img" aria-label="Prompt bubble branching into reasoning steps">
+  <rect width="160" height="120" rx="8" fill="#faf9f7"/>
+  <g fill="none" stroke="#1a1a1a" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M24 30h44a5 5 0 0 1 5 5v20a5 5 0 0 1-5 5H40l-10 9v-9h-6a5 5 0 0 1-5-5V35a5 5 0 0 1 5-5z"/>
+    <path d="M33 41h26M33 49h17"/>
+    <path d="M73 45h18M91 45v-14h16M91 45v14h16M91 45h16"/>
+  </g>
+  <g stroke="#1a1a1a" stroke-width="1.6" fill="#faf9f7">
+    <circle cx="115" cy="31" r="7"/>
+    <circle cx="115" cy="59" r="7"/>
+  </g>
+  <circle cx="115" cy="45" r="7" fill="#b5533a"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" width="160" height="120" role="img" aria-label="Binary tree data structure">
+  <rect width="160" height="120" rx="8" fill="#faf9f7"/>
+  <g stroke="#1a1a1a" stroke-width="1.6" stroke-linecap="round">
+    <path d="M80 36L54 62M80 36L106 62M54 62L38 88M54 62L70 88M106 62L122 88"/>
+  </g>
+  <g fill="#faf9f7" stroke="#1a1a1a" stroke-width="1.8">
+    <circle cx="54" cy="62" r="9"/>
+    <circle cx="106" cy="62" r="9"/>
+    <circle cx="38" cy="88" r="7"/>
+    <circle cx="70" cy="88" r="7"/>
+    <circle cx="122" cy="88" r="7"/>
+  </g>
+  <circle cx="80" cy="36" r="10" fill="#b5533a"/>
+</svg>

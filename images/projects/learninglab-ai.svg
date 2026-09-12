@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" width="160" height="120" role="img" aria-label="Small neural network">
+  <rect width="160" height="120" rx="8" fill="#faf9f7"/>
+  <g stroke="#1a1a1a" stroke-width="1.2" opacity="0.55">
+    <path d="M44 38L80 32M44 38L80 60M44 38L80 88M44 82L80 32M44 82L80 60M44 82L80 88"/>
+    <path d="M80 32L116 60M80 60L116 60M80 88L116 60"/>
+  </g>
+  <g fill="#faf9f7" stroke="#1a1a1a" stroke-width="1.8">
+    <circle cx="44" cy="38" r="8"/>
+    <circle cx="44" cy="82" r="8"/>
+    <circle cx="80" cy="32" r="8"/>
+    <circle cx="80" cy="60" r="8"/>
+    <circle cx="80" cy="88" r="8"/>
+  </g>
+  <circle cx="116" cy="60" r="9" fill="#b5533a"/>
+</svg>

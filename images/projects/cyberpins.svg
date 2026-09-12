@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" width="160" height="120" role="img" aria-label="Globe with location pins">
+  <rect width="160" height="120" rx="8" fill="#faf9f7"/>
+  <g fill="none" stroke="#1a1a1a" stroke-width="1.6" stroke-linecap="round">
+    <circle cx="80" cy="62" r="34"/>
+    <path d="M46 62h68"/>
+    <path d="M80 28c11 10 11 58 0 68c-11-10-11-58 0-68z"/>
+    <path d="M54 41c16 8 36 8 52 0"/>
+    <path d="M54 83c16-8 36-8 52 0"/>
+  </g>
+  <g fill="#b5533a">
+    <path d="M62 44c0-4 3-7 7-7s7 3 7 7c0 5-7 12-7 12s-7-7-7-12z"/>
+    <path d="M94 66c0-3.2 2.4-5.6 5.6-5.6s5.6 2.4 5.6 5.6c0 4-5.6 9.6-5.6 9.6s-5.6-5.6-5.6-9.6z"/>
+  </g>
+  <circle cx="69" cy="44" r="2.4" fill="#faf9f7"/>
+  <circle cx="99.6" cy="66" r="1.9" fill="#faf9f7"/>
+</svg>
