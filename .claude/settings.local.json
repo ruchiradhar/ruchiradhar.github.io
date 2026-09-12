@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -rn \"#[0-9a-fA-F]\\\\{3,6\\\\}\" /Users/ruchira/ruchiradhar.github.io/_sass/_buttons.scss /Users/ruchira/ruchiradhar.github.io/_sass/_notices.scss /Users/ruchira/ruchiradhar.github.io/_sass/_utilities.scss)",
+      "Bash(grep -rn \"#[0-9a-fA-F]\\\\{3,6\\\\}\" /Users/ruchira/ruchiradhar.github.io/_sass/_navigation.scss /Users/ruchira/ruchiradhar.github.io/_sass/_sidebar.scss /Users/ruchira/ruchiradhar.github.io/_sass/_masthead.scss /Users/ruchira/ruchiradhar.github.io/_sass/_page.scss /Users/ruchira/ruchiradhar.github.io/_sass/_base.scss /Users/ruchira/ruchiradhar.github.io/_sass/_footer.scss)",
+      "Bash(xargs cat)"
+    ]
+  }
+}
