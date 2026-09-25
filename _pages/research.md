@@ -16,6 +16,10 @@ Avijit Ghosh, Anka Reuel, Jenny Chim, Wm. Matthew Kennedy, Srishti Yadav, Jennif
 Iwan Williams, Ninell Oldenburg, **Ruchira Dhar**, Joshua Hatherley, Constanza Fierro, Nina Rajcic, Sandrine R. Schiller, Filippos Stamatiou, Anders Søgaard \
 *Accepted at [Neural Information Processing Systems (NeurIPS), Position Paper Track, 2026](https://neurips.cc/)*
 
+**Does Item Response Theory Generalize Across Languages? Evidence from Cross-Lingual LLM Benchmarks** \
+**Ruchira Dhar**, et al. \
+*Accepted at Findings of Empirical Methods in Natural Language Processing (EMNLP), 2026*
+
 **[Evaluating Adjective-Noun Compositionality in LLMs: Functional vs Representational Perspectives](https://arxiv.org/abs/2603.09994)**\
 **Ruchira Dhar**, Qiwei Peng, Anders Søgaard \
 *Published at [The 15th Joint Conference on Lexical and Computational Semantics (*SEM), ACL 2026](https://starsem2026.github.io/)*
