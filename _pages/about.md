@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Ruchira Dhar — PhD researcher in NLP and AI at the University of Copenhagen, working on evaluation methodology, safety and security evaluation, and evaluation reporting for governance."
+excerpt: "Ruchira Dhar, PhD researcher in NLP and AI at the University of Copenhagen, working on evaluation methodology, safety and security evaluation, and evaluation reporting for governance."
 author_profile: true
 classes: about-home
 redirect_from: 
@@ -19,18 +19,18 @@ I work on evaluation methodology, taking inspiration from language and cognitive
 
 **What should we measure?**
 
-- **[Evaluation Revisited: A Taxonomy of Evaluation Concerns in Natural Language Processing](https://arxiv.org/abs/2604.25923)** — a taxonomy of recurring evaluation concerns (Preprint, 2026).
-- **[On the Measure of a Model: From Intelligence to Generality](https://arxiv.org/abs/2511.11773)** — generality over intelligence as an evaluation target (EurIPS Workshop on the Science of Benchmarking and Evaluating AI, 2025).
+- **[Evaluation Revisited: A Taxonomy of Evaluation Concerns in Natural Language Processing](https://arxiv.org/abs/2604.25923)** explores recurring evaluation concerns in NLP through a taxonomy (Preprint, 2026).
+- **[On the Measure of a Model: From Intelligence to Generality](https://arxiv.org/abs/2511.11773)** explores generality, rather than intelligence, as an evaluation target (EurIPS Workshop on the Science of Benchmarking and Evaluating AI, 2025).
 
 **How reliable are our measurements?**
 
-- **[Evaluating Adjective-Noun Compositionality in LLMs: Functional vs Representational Perspectives](https://arxiv.org/abs/2603.09994)** — when evaluation of behaviour and representations give diverging results (\*SEM @ ACL, 2026).
-- **Does Item Response Theory Generalize Across Languages? Evidence from Cross-Lingual LLM Benchmarks** — testing psychometric evaluation across languages (EMNLP Findings, 2026, forthcoming).
+- **[Evaluating Adjective-Noun Compositionality in LLMs: Functional vs Representational Perspectives](https://arxiv.org/abs/2603.09994)** explores how evaluating behaviour and representations can give diverging results (\*SEM @ ACL, 2026).
+- **Does Item Response Theory Generalize Across Languages? Evidence from Cross-Lingual LLM Benchmarks** explores whether psychometric evaluation holds across languages (EMNLP Findings, 2026, forthcoming).
 
 **How should we surface information for users?**
 
-- **[Beyond Technocratic XAI: The Who, What & How in Explanation Design](https://ojs.aaai.org/index.php/AIES/article/view/36586)** — designing explanations around their users (AIES, 2025).
-- **[EvalCards: A Framework for Standardized Evaluation Reporting](https://arxiv.org/abs/2511.21695)** — standardised evaluation disclosure (EurIPS Workshop on the Science of Benchmarking and Evaluating AI, 2025; Nordic AI Meet, 2026).
+- **[Beyond Technocratic XAI: The Who, What & How in Explanation Design](https://ojs.aaai.org/index.php/AIES/article/view/36586)** explores designing explanations around their users (AIES, 2025).
+- **[EvalCards: A Framework for Standardized Evaluation Reporting](https://arxiv.org/abs/2511.21695)** explores standardised evaluation disclosure (EurIPS Workshop on the Science of Benchmarking and Evaluating AI, 2025; Nordic AI Meet, 2026).
 
 At my internship, I'm also looking into safety and security evaluation for agentic systems: building an evaluation harness for AI agents, and working on privacy evaluations, prompt injection, and red teaming under real regulatory requirements.
 
