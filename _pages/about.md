@@ -17,17 +17,20 @@ I will be on the job market from early next year. I'm open to roles in both acad
 
 I work on evaluation methodology, taking inspiration from language and cognitive sciences. My work follows three connected questions:
 
-- **What should we measure?** What it means to evaluate "intelligence" or a specific capability in a model, and whether better-defined constructs, like generality, make for sounder evaluation.
-- **How reliable are our measurements?** How results shift when the evaluation setup changes, and whether psychometric methods hold up across benchmark data and languages.
-- **How should evaluations be surfaced?** How evaluation reporting can be made transparent and useful for research and governance.
+**What should we measure?**
 
-Some of the work behind those questions:
+- **[Evaluation Revisited: A Taxonomy of Evaluation Concerns in Natural Language Processing](https://arxiv.org/abs/2604.25923)** — a scoping review of evaluation concerns in NLP, organised into a taxonomy and a checklist for more deliberate evaluation design, showing that many current critiques of LLM evaluation have long histories in the field (Preprint, 2026).
+- **[On the Measure of a Model: From Intelligence to Generality](https://arxiv.org/abs/2511.11773)** — "intelligence" lacks a stable definition and does not predict performance on practical tasks, so evaluation should instead be grounded in generality: performance breadth and reliability across tasks (EurIPS Workshop on the Science of Benchmarking and Evaluating AI, 2025).
 
+**How reliable are our measurements?**
 
-- **[Evaluating Adjective-Noun Compositionality in LLMs: Functional vs Representational Perspectives](https://arxiv.org/abs/2603.09994)** — the same capability question gives you different answers depending on whether you test behaviour or inspect representations (\*SEM, ACL 2026).
-- **Does Item Response Theory Generalize Across Languages? Evidence from Cross-Lingual LLM Benchmarks** — whether psychometric methods for efficient evaluation still hold when the benchmark data changes language (forthcoming in EMNLP Findings, 2026).
-- **[On the Measure of a Model: From Intelligence to Generality](https://arxiv.org/abs/2511.11773)** — "intelligence" is too elusive a construct to anchor evaluation; generality, i.e. how consistently a model performs across a range of tasks, gives us something we can actually define and measure (EurIPS Workshop on the Science of Benchmarking and Evaluating AI 2025).
-- **[EvalCards: A Framework for Standardized Evaluation Reporting](https://arxiv.org/abs/2511.21695)** — a reporting format that makes evaluation results auditable and interpretable for research, industry, and policy audiences, rather than merely comparable between models (EurIPS Workshop on Evaluating AI 2025; Nordic AI Meet 2026).
+- **[Evaluating Adjective-Noun Compositionality in LLMs: Functional vs Representational Perspectives](https://arxiv.org/abs/2603.09994)** — models develop compositional representations internally but do not consistently succeed on compositional tasks, so behavioural and representational evaluation can give different answers about the same capability (\*SEM @ ACL, 2026).
+- **Does Item Response Theory Generalize Across Languages? Evidence from Cross-Lingual LLM Benchmarks** — whether psychometric methods for efficient evaluation still hold when the benchmark data changes language (EMNLP Findings, 2026, forthcoming).
+
+**How should we surface information for users?**
+
+- **[Beyond Technocratic XAI: The Who, What & How in Explanation Design](https://ojs.aaai.org/index.php/AIES/article/view/36586)** — explanation as a situated design process, built around who needs the explanation, what they need explained, and how it should be delivered (AIES, 2025).
+- **[EvalCards: A Framework for Standardized Evaluation Reporting](https://arxiv.org/abs/2511.21695)** — a disclosure format that addresses three shortcomings of current evaluation reporting (reproducibility, accessibility, and governance), making results more transparent for researchers and practitioners and easier to use for governance (EurIPS Workshop on the Science of Benchmarking and Evaluating AI, 2025; Nordic AI Meet, 2026).
 
 At my internship, I'm also looking into safety and security evaluation for agentic systems: building an evaluation harness for AI agents, and working on privacy evaluations, prompt injection, and red teaming under real regulatory requirements.
 
