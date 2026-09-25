@@ -24,7 +24,7 @@ I work on evaluation methodology, taking inspiration from language and cognitive
 
 **How reliable are our measurements?**
 
-- **[Evaluating Adjective-Noun Compositionality in LLMs: Functional vs Representational Perspectives](https://arxiv.org/abs/2603.09994)** — when behaviour and representations diverge (\*SEM @ ACL, 2026).
+- **[Evaluating Adjective-Noun Compositionality in LLMs: Functional vs Representational Perspectives](https://arxiv.org/abs/2603.09994)** — when evaluation of behaviour and representations give diverging results (\*SEM @ ACL, 2026).
 - **Does Item Response Theory Generalize Across Languages? Evidence from Cross-Lingual LLM Benchmarks** — testing psychometric evaluation across languages (EMNLP Findings, 2026, forthcoming).
 
 **How should we surface information for users?**
