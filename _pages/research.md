@@ -17,7 +17,7 @@ Iwan Williams, Ninell Oldenburg, **Ruchira Dhar**, Joshua Hatherley, Constanza F
 *Accepted at [Neural Information Processing Systems (NeurIPS), Position Paper Track, 2026](https://neurips.cc/)*
 
 **Does Item Response Theory Generalize Across Languages? Evidence from Cross-Lingual LLM Benchmarks** \
-**Ruchira Dhar**, et al. \
+**Ruchira Dhar**, Qiwei Peng, Anders Søgaard \
 *Accepted at Findings of Empirical Methods in Natural Language Processing (EMNLP), 2026*
 
 **[Evaluating Adjective-Noun Compositionality in LLMs: Functional vs Representational Perspectives](https://arxiv.org/abs/2603.09994)**\
