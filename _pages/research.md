@@ -8,6 +8,14 @@ classes: research-page
 
 ## Publications
 
+**[Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting](https://arxiv.org/abs/2606.09809)** \
+Avijit Ghosh, Anka Reuel, Jenny Chim, Wm. Matthew Kennedy, Srishti Yadav, Jennifer Mickel, Yanan Long, Andrew Tran, Anastassia Kornilova, Damian Stachura, Kevin Klyman, Felix Friedrich, Jeba Sania, Jan Batzner, Anoop Mishra, Eliya Habba, Yixiong Hao, Nathan Heath, Shalaleh Rismani, Usman Gohar, Andrea Loehr, David Manheim, **Ruchira Dhar**, Sree Harsha Nelaturu, Aarush Sinha, Leshem Choshen, Drishti Sharma, Ishan Khire, Amit Saha, Subramanyam Sahoo, Michael Hardy, Michael Alexander Riegler, Kabir Manghnani, Michelle Lin, Yanan Jiang, Yilin Huang, Asaf Yehudai, Jessica Ji, Aris Hofmann, Mubashara Akhtar, Max Lamparth, Nuno Moniz, Yacine Jernite, Stella Biderman, Zeerak Talat, Sanmi Koyejo, Mykel Kochenderfer, Irene Solaiman \
+*Accepted at [Neural Information Processing Systems (NeurIPS), Evaluations & Datasets Track, 2026](https://neurips.cc/)*
+
+**[Mechanistic Interpretability Needs Philosophy](https://arxiv.org/abs/2506.18852)** \
+Iwan Williams, Ninell Oldenburg, **Ruchira Dhar**, Joshua Hatherley, Constanza Fierro, Nina Rajcic, Sandrine R. Schiller, Filippos Stamatiou, Anders Søgaard \
+*Accepted at [Neural Information Processing Systems (NeurIPS), Position Paper Track, 2026](https://neurips.cc/)*
+
 **[Evaluating Adjective-Noun Compositionality in LLMs: Functional vs Representational Perspectives](https://arxiv.org/abs/2603.09994)**\
 **Ruchira Dhar**, Qiwei Peng, Anders Søgaard \
 *Published at [The 15th Joint Conference on Lexical and Computational Semantics (*SEM), ACL 2026](https://starsem2026.github.io/)*
