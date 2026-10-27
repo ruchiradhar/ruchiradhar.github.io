@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Ruchira Dhar, PhD researcher in NLP and AI at the University of Copenhagen, working on evaluation methodology, safety and security evaluation, and evaluation reporting for governance."
+excerpt: "Ruchira Dhar, PhD researcher in NLP and AI at the University of Copenhagen, working on the science of evaluation."
 author_profile: true
 classes: about-home
 redirect_from: 
@@ -9,43 +9,25 @@ redirect_from:
   - /about.html
 ---
 
-I'm Ruchira, a PhD Researcher in NLP and AI at the [Department of Computer Science](https://di.ku.dk/english/), University of Copenhagen, supervised by Dr. Anders Søgaard. I'm affiliated with the [CoAStaL Lab](https://coastalcph.github.io) and the [Centre for Philosophy of AI](https://cpai.ku.dk/). Currently visiting the [LRE Lab](https://lre.inf.ethz.ch/) at ETH Zurich, and interning at [Refractal AI](https://refractal-ai.com/), an agentic security startup in London.
+I'm Ruchira, a PhD Researcher in NLP and AI at the [Department of Computer Science](https://di.ku.dk/english/), University of Copenhagen, supervised by Dr. Anders Søgaard. I'm affiliated with the [CoAStaL Lab](https://coastalcph.github.io) and the [Centre for Philosophy of AI](https://cpai.ku.dk/). I'm currently an AI Research Engineer Intern at [Refractal AI](https://refractal-ai.com/) in London. From June to July 2026, I was a Visiting Researcher at the [LRE Lab](https://lre.inf.ethz.ch/) at ETH Zurich, supervised by Dr. Mrinmaya Sachan.
 
-I will be on the job market from early next year. I'm open to roles in both academia and industry, preferably working on evaluation research. If you have an interesting role in mind, [do get in touch](mailto:rudh@di.ku.dk).
+I will be on the job market in early 2027. I'm open to roles in both academia and industry.
 
 ### Research
 
-I work on evaluation methodology, taking inspiration from language and cognitive sciences. My work follows three connected questions:
+I study evaluation of language systems: what we should measure, how reliable our measurements are, and how results can be useful to actual users of such systems. My work draws on many disciplines, including linguistics, cognitive sciences, neuroscience, etc. For more, see my [Research Projects]({{ '/research/' | relative_url }}).
 
-**What should we measure?**
+### Academic Affiliations
 
-- **[Evaluation Revisited: A Taxonomy of Evaluation Concerns in Natural Language Processing](https://arxiv.org/abs/2604.25923)** explores recurring evaluation concerns in NLP through a taxonomy (Preprint, 2026).
-- **[On the Measure of a Model: From Intelligence to Generality](https://arxiv.org/abs/2511.11773)** explores generality, rather than intelligence, as an evaluation target (EurIPS Workshop on the Science of Benchmarking and Evaluating AI, 2025).
+- **Research Fellow, [EvalEval Coalition](https://evalevalai.com/)** (2025–Present). Contributing to AI evaluation and reporting research, including user research and interviews informing interface design.
+- **Open Science Lead, [Cohere Labs](https://cohere.com/research/open-science)** (2024–Present). Co-leading the Research Connections programme, organising research talks and collaboration sessions for a global community of 200+ researchers.
 
-**How reliable are our measurements?**
+### Academic Services
 
-- **[Evaluating Adjective-Noun Compositionality in LLMs: Functional vs Representational Perspectives](https://arxiv.org/abs/2603.09994)** explores how evaluating behaviour and representations can give diverging results (\*SEM @ ACL, 2026).
-- **Does Item Response Theory Generalize Across Languages? Evidence from Cross-Lingual LLM Benchmarks** explores whether psychometric evaluation holds across languages (EMNLP Findings, 2026, forthcoming).
+- **Program Committee Member**, [Measuring What Matters](https://wasp-sweden.org/event/measuring-what-matters/), Wallenberg AI, Autonomous Systems and Software Program (WASP) (2026).
+- **Teaching Assistant**, [NLP Course](https://kurser.ku.dk/course/ndak18000u/2025-2026), University of Copenhagen (2023–Present). I teach undergraduate and graduate students in natural language processing. Helping students get their first foothold in the field remains one of the most rewarding parts of my PhD.
+- **Reviewer**, ACL, EMNLP, NeurIPS and ICML.
 
-**How should we surface information for users?**
+### Beyond the Desk
 
-- **[Beyond Technocratic XAI: The Who, What & How in Explanation Design](https://ojs.aaai.org/index.php/AIES/article/view/36586)** explores designing explanations around their users (AIES, 2025).
-- **[EvalCards: A Framework for Standardized Evaluation Reporting](https://arxiv.org/abs/2511.21695)** explores standardised evaluation disclosure (EurIPS Workshop on the Science of Benchmarking and Evaluating AI, 2025; Nordic AI Meet, 2026).
-
-At my internship, I'm also looking into safety and security evaluation for agentic systems: building an evaluation harness for AI agents, and working on privacy evaluations, prompt injection, and red teaming under real regulatory requirements.
-
-### Extracurriculars
-
-- **Working Member, [EvalEval Coalition](https://evalevalai.com/)** (2025–Present). Contributing to community efforts around robust and responsible AI evaluation.
-- **Venture Fellow, [Creator Fund](https://thecreatorfund.com/university-team/)** (2025–Present). Technical diligence on product and infrastructure for early-stage AI startups.
-- **Open Science Lead, [Cohere Labs](https://cohere.com/research)** (2024–Present). Driving research engagement across a global community of 200+ researchers.
-
-### Teaching
-
-Teaching Assistant, [NLP Course](https://kurser.ku.dk/course/ndak18000u/2025-2026), University of Copenhagen (2023–Present). Two years in, it remains one of the most rewarding parts of my PhD. There's something genuinely satisfying about helping students get their first foothold in the field.
-
-### Contact
-
-Whether you want to debate evaluation metrics, talk AI safety and policy, or just say hi, find me on [LinkedIn](https://www.linkedin.com/in/ruchira-dhar-105427122/) or drop a line at [this email](mailto:rudh@di.ku.dk).
-
-Based in Copenhagen. Coffee recommendations always welcome.
+I'm into [Historical European Martial Arts](https://hemapenzance.com/blog/what-is-hema), travelling to cold places and reading.

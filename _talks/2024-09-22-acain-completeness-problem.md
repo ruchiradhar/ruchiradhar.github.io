@@ -11,3 +11,5 @@ location: "Italy"
 **Venue:** [International Symposium on AI & Neuroscience (ACAIN)](https://acain2024.icas.events/symposium/)
 
 This talk discusses the limits of human-centric evaluation metrics and explores how we might more fully capture the abilities of emerging cognitive systems.
+
+[Slides](https://docs.google.com/presentation/d/1Rm3fg9-OIM6Gj81y7WALZiOIGLdwvzXw9mKZCwlKcD4/edit?usp=sharing)
